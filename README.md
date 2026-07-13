@@ -3,7 +3,7 @@
 CS Student @ Superior University Lahore | Mobile App Dev | Flutter & Java
 
 🔭 Currently building: Android apps & learning DSA
-🌱 Skills: Java, Flutter, Python, Firebase, ML
+🌱 Skills: Java, Flutter, Python, Web, ML
 💼 Co-founder & CTO @ Digital Security Systems
 📫 Connect: https://www.linkedin.com/in/moeezaiqbal/ | moeezaiqbal40@email.com
 
