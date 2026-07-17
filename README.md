@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Moeeza Iqbal 👋</h1>
-<h3 align="center">CS Undergrad · Mobile & AI Systems Developer</h3>
+<h3 align="center">CS Undergrad · Full-Stack, Mobile & Applied ML</h3>
 
 <p align="center">
-  Building production-minded projects across mobile, backend, and applied ML — from concurrency-safe backend systems to on-device intrusion detection.
+  I like building things end to end — clean frontends, mobile apps in Flutter, solid DSA fundamentals, and enough backend/ML to make it all work.
 </p>
 
 <p align="center">
@@ -16,30 +16,30 @@
 
 - 🎓 Computer Science student at Superior University, Lahore
 - 💼 Co-founder & CTO at Digital Security Systems
-- 🔭 Currently building backend systems with real concurrency and security constraints (seat-locking, resume-matching, intrusion detection)
-- 🌱 Sharpening data structures & algorithms alongside applied ML
+- 🔭 Currently building across the stack — frontend, Flutter apps, and backend systems with real-world constraints (concurrency, security)
+- 🌱 Sharpening data structures & algorithms
 - 📫 Reach me at moeezaiqbal40@email.com
 
 ---
 
 ### Tech Stack
 
-**Languages**
+**Mobile & Frontend**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Languages & DSA**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Mobile & Web**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+**Backend & Data**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-**Data & ML**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -68,15 +68,6 @@ Sentiment classification model for Roman-Urdu text — a low-resource NLP proble
 **⏱️ Task Scheduler**
 Systems-level scheduler implemented in C++.
 `C++`
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moizaiqbal40-ops&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moizaiqbal40-ops&theme=default&hide_border=true" height="165"/>
-</p>
 
 ---
 
