@@ -4,7 +4,7 @@
 
 ### Turning ambitious ideas into thoughtful software.
 
-Software Engineering · Product Thinking · Creative Development
+Software Engineering · Product Thinking
 
 Lahore, Pakistan · BS Computer Science, Superior University
 
@@ -23,7 +23,7 @@ Lahore, Pakistan · BS Computer Science, Superior University
 
 ### 🧠 MindEase
 
-An AI-powered mental wellness platform designed to make emotional support more accessible through thoughtful interactions and an intuitive user experience.
+An AI-powered mental wellness platform built to make emotional support easier to reach, with a simple, human interface.
 
 **Built with**
 <kbd>Python</kbd> <kbd>Streamlit</kbd> <kbd>Machine Learning</kbd>
@@ -38,7 +38,7 @@ An AI-powered mental wellness platform designed to make emotional support more a
 
 ### 🍰 Crumb & Co
 
-A complete ordering platform built for a growing home bakery. Instead of relying on scattered WhatsApp messages and manual order tracking, Crumb & Co brings the entire experience into one place — from exploring products and customizing cakes with a live preview, to placing orders, managing deliveries, and handling everything through an administrative dashboard.
+A complete ordering platform built for a growing home bakery — replacing scattered WhatsApp messages and manual tracking with one place to browse the menu, customize a cake with a live preview, check out, and manage orders through an admin dashboard.
 
 Designed as a complete product, not just a classroom project.
 
@@ -50,7 +50,7 @@ Designed as a complete product, not just a classroom project.
 
 <br>
 
-> I'm continuously building projects that challenge me to think differently, learn faster, and solve meaningful problems. Every new project is an opportunity to explore unfamiliar technologies, improve my engineering skills, and create products people genuinely enjoy using.
+> I'm always building the next thing — usually something slightly outside what I already know how to do.
 
 <br>
 
@@ -61,18 +61,16 @@ Designed as a complete product, not just a classroom project.
 ## Current Focus
 
 **Building**
-- Product-focused web applications
-- Interactive user experiences
-- Full-stack software projects
+- Full-stack web applications
+- Interfaces people actually enjoy using
 
 **Working with**
-<kbd>Java</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd> <kbd>React</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>MySQL</kbd> <kbd>Git</kbd> <kbd>Figma</kbd> <kbd>Data Structures & Algorithms</kbd>
+<kbd>Java</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd> <kbd>React</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>MySQL</kbd> <kbd>Git</kbd> <kbd>Figma</kbd> <kbd>DSA</kbd>
 
 **Currently exploring**
 - Android Development
 - Computer Vision
 - Operating Systems
-- Software Engineering Principles
 
 <br>
 
@@ -86,7 +84,7 @@ Designed as a complete product, not just a classroom project.
 
 I enjoy projects that push me beyond what I already know. Sometimes that means learning a completely new technology. Other times it means redesigning an idea several times until it finally feels simple, intuitive, and worth using.
 
-For me, writing code is only part of the process. I care just as much about the experience people have while using what I build — the small interactions, thoughtful details, and decisions that make software feel natural instead of complicated.
+Writing code is only part of the process. I care just as much about the experience people have using what I build — the small interactions and details that make software feel natural instead of complicated.
 
 My journey into Computer Science didn't begin in a programming classroom. I transitioned from a Pre-Medical background and had to learn everything from the ground up. That experience taught me how to adapt quickly, stay curious, and approach difficult challenges with patience instead of fear. It continues to shape the way I learn and the way I build.
 
@@ -112,7 +110,7 @@ Design has taught me to notice the details that people often overlook, while pro
 
 ## Let's Build Something Meaningful
 
-I'm always happy to connect with people who enjoy building thoughtful software, solving interesting problems, or creating products that make someone's experience a little better.
+I'm always happy to connect with people who enjoy building thoughtful software or solving interesting problems.
 
 [GitHub](#) · [LinkedIn](#) · [Portfolio](#) · [Resume](#) · [Email](#)
 
