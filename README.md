@@ -1,97 +1,119 @@
 <div align="center">
-<img src="./assets/banner.svg" width="100%"/>
+
+# Moeeza Iqbal
+
+### Turning ambitious ideas into thoughtful software.
+
+Software Engineering · Product Thinking · Creative Development
+
+Lahore, Pakistan · BS Computer Science, Superior University
+
 </div>
 
-<br/>
+<br>
 
-<table width="100%" border="0">
-<tr>
-<td width="65%" valign="top">
+---
 
-### About
+<br>
 
-CS Undergrad focused on Java, Data Structures & Algorithms, and applied AI/ML — with System Design next on the list. Co-founder at Digital Security Systems, where the physical-security domain directly shaped one of the projects below.
+## Featured Work
 
-I try to document *why* something works, not just that it does — MindEase's README explains where its own model fails as carefully as where it succeeds. That's the habit I'm building toward: engineering that holds up under questions.
+<table width="100%">
+<tr><td>
 
-**Aiming for:** internships at Lahore software houses, building toward Software Engineering roles at Google, Microsoft, or Amazon.
+### 🧠 MindEase
 
-</td>
-<td width="35%" valign="top">
+An AI-powered mental wellness platform designed to make emotional support more accessible through thoughtful interactions and an intuitive user experience.
 
-### Stack
+**Built with**
+<kbd>Python</kbd> <kbd>Streamlit</kbd> <kbd>Machine Learning</kbd>
 
-`Java` `Python` `C++`
-`JavaScript` `Flutter`
-`OpenCV` `Scikit-learn`
-`Streamlit` `Git`
-
-**Learning now:**
-Advanced DSA · System Design · ML theory
-
-</td>
-</tr>
+</td></tr>
 </table>
 
-<br/>
+<br>
 
----
+<table width="100%">
+<tr><td>
 
-## Projects
+### 🍰 Crumb & Co
 
-<table width="100%" border="0">
-<tr>
-<td width="50%" valign="top">
+A complete ordering platform built for a growing home bakery. Instead of relying on scattered WhatsApp messages and manual order tracking, Crumb & Co brings the entire experience into one place — from exploring products and customizing cakes with a live preview, to placing orders, managing deliveries, and handling everything through an administrative dashboard.
 
-**[MindEase](https://github.com/moizaiqbal40-ops/Mindease)**
-AI mental-health stress detector — three ML models built from scratch with NumPy, an honest accuracy write-up, and a crisis-safety layer that overrides scoring entirely when self-harm language appears.
-<sub>`Python` `NumPy` `Streamlit`</sub>
+Designed as a complete product, not just a classroom project.
 
-</td>
-<td width="50%" valign="top">
+**Built with**
+<kbd>PHP</kbd> <kbd>MySQL</kbd> <kbd>JavaScript</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd>
 
-**[AI Intrusion Detection](https://github.com/moizaiqbal40-ops/ai-intrusion-detection)**
-Real-time restricted-zone detection with YOLOv8 + OpenCV — polygon zones, object tracking, false-alarm filtering, and a timestamped evidence trail.
-<sub>`Python` `YOLOv8` `OpenCV`</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Roman Urdu Sentiment Analysis](https://github.com/moizaiqbal40-ops/roman-urdu-sentiment-analysis)**
-Sentiment classifier trained on 20k+ labeled Roman Urdu sentences — a genuinely low-resource NLP setting most portfolios skip entirely.
-<sub>`Python` `NLP` `Flask`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[Smart Task Scheduler](https://github.com/moizaiqbal40-ops/task-scheduler)**
-Console scheduler in C++ demonstrating abstraction, inheritance, and polymorphism through two priority strategies sharing one base class.
-<sub>`C++` `OOP`</sub>
-
-</td>
-</tr>
+</td></tr>
 </table>
 
-<br/>
+<br>
+
+> I'm continuously building projects that challenge me to think differently, learn faster, and solve meaningful problems. Every new project is an opportunity to explore unfamiliar technologies, improve my engineering skills, and create products people genuinely enjoy using.
+
+<br>
 
 ---
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=moizaiqbal40-ops&show_icons=true&hide_border=true&bg_color=0B1220&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moizaiqbal40-ops&hide_border=true&background=0B1220&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA" height="150"/>
-</div>
+<br>
 
-<br/>
+## Current Focus
+
+**Building**
+- Product-focused web applications
+- Interactive user experiences
+- Full-stack software projects
+
+**Working with**
+<kbd>Java</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd> <kbd>React</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>MySQL</kbd> <kbd>Git</kbd> <kbd>Figma</kbd> <kbd>Data Structures & Algorithms</kbd>
+
+**Currently exploring**
+- Android Development
+- Computer Vision
+- Operating Systems
+- Software Engineering Principles
+
+<br>
 
 ---
 
+<br>
+
+<details>
+<summary><strong>How I Build</strong></summary>
+<br>
+
+I enjoy projects that push me beyond what I already know. Sometimes that means learning a completely new technology. Other times it means redesigning an idea several times until it finally feels simple, intuitive, and worth using.
+
+For me, writing code is only part of the process. I care just as much about the experience people have while using what I build — the small interactions, thoughtful details, and decisions that make software feel natural instead of complicated.
+
+My journey into Computer Science didn't begin in a programming classroom. I transitioned from a Pre-Medical background and had to learn everything from the ground up. That experience taught me how to adapt quickly, stay curious, and approach difficult challenges with patience instead of fear. It continues to shape the way I learn and the way I build.
+
+</details>
+
+<details>
+<summary><strong>Beyond the Code</strong></summary>
+<br>
+
+Outside software, you'll usually find me sketching ideas, drawing, or exploring digital art.
+
+Design has taught me to notice the details that people often overlook, while programming has taught me how to turn those ideas into something useful. Together, they've shaped the way I approach software — with equal attention to functionality, usability, and craftsmanship.
+
+</details>
+
+<br>
+
+---
+
+<br>
+
 <div align="center">
 
-<sub>◆ Understand the mechanism, not just the demo · Lahore, Pakistan ◆</sub>
+## Let's Build Something Meaningful
 
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moeezaiqbal/)
-[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-real-email@gmail.com)
+I'm always happy to connect with people who enjoy building thoughtful software, solving interesting problems, or creating products that make someone's experience a little better.
+
+[GitHub](#) · [LinkedIn](#) · [Portfolio](#) · [Resume](#) · [Email](#)
 
 </div>
