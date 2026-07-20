@@ -1,136 +1,104 @@
 <div align="center">
 
-<img src="YOUR_MINIMAL_BANNER_HERE" width="100%" alt="Banner"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+  <img alt="" src="./assets/banner-light.svg" width="100%">
+</picture>
+
+<br>
 
 # Moeeza Iqbal
 
 ### Turning ambitious ideas into thoughtful software.
 
-**Software Engineering • Product Development**
+Software Engineering · Product Thinking
 
-Lahore, Pakistan • BS Computer Science, Superior University
-
-<p>
-<a href="YOUR_LINKEDIN">LinkedIn</a> •
-<a href="YOUR_PORTFOLIO">Portfolio</a> •
-<a href="YOUR_RESUME">Resume</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
-</p>
+Lahore, Pakistan · BS Computer Science, Superior University
 
 </div>
 
 ---
 
-# Featured Work
+## Featured Work
 
-<table>
+<table width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
-## 🧠 MindEase
+### 🧠 MindEase
 
-AI-powered mental wellness platform designed to make emotional support easier to reach through a simple, human-centered experience.
+An AI-powered mental wellness platform built to make emotional support easier to reach, with a simple, human interface.
 
 **Built with**
-
-`Python` `Streamlit` `Machine Learning`
-
-<br>
-
-<a href="YOUR_REPO">View Project →</a>
+<kbd>Python</kbd> <kbd>Streamlit</kbd> <kbd>Machine Learning</kbd>
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🍰 Crumb & Co
+### 🍰 Crumb & Co
 
-A complete ordering platform for a growing home bakery with live cake customization, checkout, and an admin dashboard.
+A complete ordering platform built for a growing home bakery — replacing scattered WhatsApp messages and manual tracking with one place to browse the menu, customize a cake with a live preview, check out, and manage orders through an admin dashboard.
 
-Designed as a complete product—not just a classroom project.
+Designed as a complete product, not just a classroom project.
 
 **Built with**
-
-`PHP` `MySQL` `JavaScript` `HTML` `CSS`
-
-<br>
-
-<a href="YOUR_REPO">View Project →</a>
+<kbd>PHP</kbd> <kbd>MySQL</kbd> <kbd>JavaScript</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd>
 
 </td>
-
 </tr>
 </table>
 
+> I'm always building the next thing — usually something slightly outside what I already know how to do.
+
 ---
 
-# Current Focus
+## Current Focus
 
-<table>
+<table width="100%">
 <tr>
+<td width="50%" valign="top">
 
-<td width="45%" valign="top">
-
-### Building
-
+**Building**
 - Full-stack web applications
-- Interfaces people enjoy using
-- Product-focused software
+- Interfaces people actually enjoy using
 
-### Exploring
+**Working with**
+<kbd>Java</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd> <kbd>React</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>MySQL</kbd> <kbd>Git</kbd> <kbd>Figma</kbd> <kbd>DSA</kbd>
 
+</td>
+<td width="50%" valign="top">
+
+**Currently exploring**
 - Android Development
 - Computer Vision
 - Operating Systems
 
 </td>
-
-<td width="55%" valign="top">
-
-### Working With
-
-`Java`
-`JavaScript`
-`PHP`
-`React`
-
-`HTML`
-`CSS`
-`MySQL`
-`Git`
-
-`Figma`
-`DSA`
-
-</td>
-
 </tr>
 </table>
 
 ---
 
 <details>
-<summary><b>How I Build</b></summary>
-
+<summary><strong>How I Build</strong></summary>
 <br>
 
 I enjoy projects that push me beyond what I already know. Sometimes that means learning a completely new technology. Other times it means redesigning an idea several times until it finally feels simple, intuitive, and worth using.
 
-Writing code is only part of the process. I care just as much about the experience people have using what I build—the small interactions and details that make software feel natural instead of complicated.
+Writing code is only part of the process. I care just as much about the experience people have using what I build — the small interactions and details that make software feel natural instead of complicated.
 
 My journey into Computer Science didn't begin in a programming classroom. I transitioned from a Pre-Medical background and had to learn everything from the ground up. That experience taught me how to adapt quickly, stay curious, and approach difficult challenges with patience instead of fear. It continues to shape the way I learn and the way I build.
 
 </details>
 
 <details>
-<summary><b>Beyond the Code</b></summary>
-
+<summary><strong>Beyond the Code</strong></summary>
 <br>
 
 Outside software, you'll usually find me sketching ideas, drawing, or exploring digital art.
 
-Design has taught me to notice details that people often overlook, while programming has taught me how to turn those ideas into something useful. Together, they've shaped the way I approach software—with equal attention to functionality, usability, and craftsmanship.
+Design has taught me to notice the details that people often overlook, while programming has taught me how to turn those ideas into something useful. Together, they've shaped the way I approach software — with equal attention to functionality, usability, and craftsmanship.
 
 </details>
 
@@ -138,10 +106,10 @@ Design has taught me to notice details that people often overlook, while program
 
 <div align="center">
 
-## Let's Connect
+## Let's Build Something Meaningful
 
 I'm always happy to connect with people who enjoy building thoughtful software or solving interesting problems.
 
-**Open to Software Engineering Internship Opportunities**
+[GitHub](#) · [LinkedIn](#) · [Portfolio](#) · [Resume](#) · [Email](#)
 
 </div>
