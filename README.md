@@ -20,38 +20,6 @@ Lahore, Pakistan · BS Computer Science, Superior University
 
 ---
 
-## Featured Work
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 MindEase
-
-An AI-powered mental wellness platform built to make emotional support easier to reach, with a simple, human interface.
-
-**Built with**
-<kbd>Python</kbd> <kbd>Streamlit</kbd> <kbd>Machine Learning</kbd>
-
-</td>
-<td width="50%" valign="top">
-
-### 🍰 Crumb & Co
-
-A complete ordering platform built for a growing home bakery — replacing scattered WhatsApp messages and manual tracking with one place to browse the menu, customize a cake with a live preview, check out, and manage orders through an admin dashboard.
-
-Designed as a complete product, not just a classroom project.
-
-**Built with**
-<kbd>PHP</kbd> <kbd>MySQL</kbd> <kbd>JavaScript</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd>
-
-</td>
-</tr>
-</table>
-
-> I'm always building the next thing — usually something slightly outside what I already know how to do.
-
----
 
 ## Current Focus
 
