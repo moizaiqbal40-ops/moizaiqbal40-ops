@@ -1,10 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <img alt="Banner" src="./assets/banner-light.svg" width="100%">
-</picture>
 
 # Hi, I'm Moeeza Iqbal 👋
 
@@ -22,6 +17,6 @@ Building full-stack applications, exploring AI, and creating software that solve
 
 <br>
 
-[Portfolio](#) • [LinkedIn](#) • [Resume](#) • [Email](#)
+[Portfolio](#) • [LinkedIn](https://www.linkedin.com/in/moeezaiqbal/) • [Email](mailto:moizaiqbal40@gmail.com)
 
 </div>
