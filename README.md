@@ -14,10 +14,6 @@ BS Computer Science @ Superior University, Lahore
 
 Building full-stack applications, exploring AI, and creating software that solves real-world problems.
 
-<br>
-
-[Portfolio](#) • [LinkedIn](https://www.linkedin.com/in/moeezaiqbal/) • [Email](mailto:moizaiqbal40@gmail.com)
-
 </div>
 
 ---
@@ -51,35 +47,6 @@ and improving the system one step at a time.
 
 ---
 
-## 🧩 Developer Lifecycle
-
-```text
-        ┌───────────────┐
-        │     IDEA      │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │    EXPLORE    │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │     BUILD     │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │     TEST      │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │    DEBUG      │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │    IMPROVE    │
-        └───────┬───────┘
-                │
-                └───────────↻
-```
 
 <div align="center">
 
@@ -157,6 +124,6 @@ Every project is another loop of learning, building, debugging, and improving.
 
 ### ✦ Build. Learn. Improve. Repeat. ✦
 
-<sub>Always learning. Always building.</sub>
-
+[Portfolio](#) • [LinkedIn](https://www.linkedin.com/in/moeezaiqbal/) • [Email](mailto:moizaiqbal40@gmail.com)
+<br>
 </div>
