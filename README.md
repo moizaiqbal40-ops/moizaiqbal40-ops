@@ -16,47 +16,6 @@ Building full-stack applications, exploring AI, and creating software that solve
 
 </div>
 
----
-
-## ✦ Engineering Mindset
-
-<div align="center">
-
-**Think → Build → Test → Improve**
-
-<br>
-
-<sub>
-I learn by building real software, breaking things, understanding why they broke,
-and improving the system one step at a time.
-</sub>
-
-</div>
-
----
-
-## 🚀 Selected Work
-
-<div align="center">
-
-<a href="https://github.com/moizaiqbal40-ops/ai-virtual-painter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=moizaiqbal40-ops&repo=ai-virtual-painter&theme=tokyonight&hide_border=true" width="48%" />
-</a>
-
-</div>
-
----
-
-
-<div align="center">
-
-<sub>
-Every project is another loop of learning, building, debugging, and improving.
-</sub>
-
-</div>
-
----
 
 ## 🌌 GitHub Activity
 
