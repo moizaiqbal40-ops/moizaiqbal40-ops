@@ -27,27 +27,20 @@ Building full-stack applications, exploring AI, and creating software that solve
 
 ---
 
-## 📊 GitHub by the Numbers
+## ✨ Random Developer Quote
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=moizaiqbal40-ops&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github&hide_title=true" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizaiqbal40-ops&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&hide_title=true" height="170" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%" />
 
 </div>
 
 ---
 
-## 🌱 Currently Building
-
 <div align="center">
 
-**Java + DSA**   •   **Full-Stack Development**   •   **AI-Powered Applications**   •   **Software Engineering**
+### ✦ Build. Learn. Improve. Repeat. ✦
 
-</div>
-
----
 
 ## ☕ Connect With Me
 
@@ -68,21 +61,4 @@ Building full-stack applications, exploring AI, and creating software that solve
 </div>
 
 ---
-
-## ✨ Random Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%" />
-
-</div>
-
----
-
-<div align="center">
-
-### ✦ Build. Learn. Improve. Repeat. ✦
-
-[Portfolio](#) • [LinkedIn](https://www.linkedin.com/in/moeezaiqbal/) • [Email](mailto:moizaiqbal40@gmail.com)
-<br>
 </div>
