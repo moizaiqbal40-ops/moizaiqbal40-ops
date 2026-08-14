@@ -1,26 +1,22 @@
-Hi, I'm Moeeza 👋
-Computer Science Student • Full-Stack Developer • AI Builder
+<div align="center">
 
-1-line value proposition
 
-TECH STACK
-Languages
-Frontend
-Backend / Database
-Tools
+# Hi, I'm Moeeza Iqbal 👋
 
-FEATURED PROJECTS
-→ Project 1
-→ Project 2
-→ Project 3
+### Full-Stack Developer • Building AI-Powered Products
 
-CURRENTLY
-→ Java + DSA
-→ Software Engineering
-→ Full-stack development
-→ AI-powered applications
+BS Computer Science @ Superior University, Lahore
 
-GITHUB ACTIVITY / STATS
+<br>
 
-CONNECT
-Portfolio • LinkedIn • Email
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,php,mysql,html,css,git,github&perline=10" />
+</p>
+
+Building full-stack applications, exploring AI, and creating software that solves real-world problems.
+
+<br>
+
+[Portfolio](#) • [LinkedIn](https://www.linkedin.com/in/moeezaiqbal/) • [Email](mailto:moizaiqbal40@gmail.com)
+
+</div>
