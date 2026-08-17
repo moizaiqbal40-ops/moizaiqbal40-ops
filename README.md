@@ -4,6 +4,27 @@
 
 <br/>
 
+<div align="center">
+<h3>🧰 Tech Stack</h3>
+
+<table>
+<tr>
+<td align="right"><strong>Languages</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php,mysql" height="38"/><br/>
+<sub>Java · Python · C++ · JavaScript · PHP · SQL</sub>
+</td>
+</tr>
+<tr>
+<td align="right"><strong>Web & Apps</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind,nodejs,androidstudio,git" height="38"/><br/>
+<sub>HTML · CSS · React · Vite · Bootstrap · Tailwind · Node.js · Android Studio · Git</sub>
+</td>
+</tr>
+</table>
+</div>
+
 <br/>
 
 <table width="100%">
@@ -40,29 +61,6 @@
 </td>
 </tr>
 </table>
-
-<br/>
-
-<div align="center">
-<h3>🧰 Tech Stack</h3>
-
-<table>
-<tr>
-<td align="right"><strong>Languages</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php,mysql" height="38"/><br/>
-<sub>Java · Python · C++ · JavaScript · PHP · SQL</sub>
-</td>
-</tr>
-<tr>
-<td align="right"><strong>Web & Apps</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind,nodejs,androidstudio,git" height="38"/><br/>
-<sub>HTML · CSS · React · Vite · Bootstrap · Tailwind · Node.js · Android Studio · Git</sub>
-</td>
-</tr>
-</table>
-</div>
 
 <br/>
 
