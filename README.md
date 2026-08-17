@@ -2,28 +2,7 @@
   <img src="https://raw.githubusercontent.com/moizaiqbal40-ops/moizaiqbal40-ops/main/profile-banner.svg" alt="Moeeza Iqbal — Computer Science Student" width="100%"/>
 </div>
 
-<div align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/Java-0B1B12?style=flat-square&logo=openjdk&logoColor=9AFF45"/>
-  <img src="https://img.shields.io/badge/Python-0B1B12?style=flat-square&logo=python&logoColor=9AFF45"/>
-  <img src="https://img.shields.io/badge/JavaScript-0B1B12?style=flat-square&logo=javascript&logoColor=9AFF45"/>
-  <img src="https://img.shields.io/badge/PHP-0B1B12?style=flat-square&logo=php&logoColor=9AFF45"/>
-  <img src="https://img.shields.io/badge/MySQL-0B1B12?style=flat-square&logo=mysql&logoColor=9AFF45"/>
-  <img src="https://img.shields.io/badge/React-0B1B12?style=flat-square&logo=react&logoColor=9AFF45"/>
-  <img src="https://img.shields.io/badge/Android-0B1B12?style=flat-square&logo=android&logoColor=9AFF45"/>
-  <img src="https://img.shields.io/badge/Git-0B1B12?style=flat-square&logo=git&logoColor=9AFF45"/>
-</div>
-
 <br/>
-
-<table width="100%">
-<tr>
-<td align="center" width="25%"><strong>⭐</strong><br/><sub>STARS</sub></td>
-<td align="center" width="25%"><strong>▣</strong><br/><sub>REPOSITORIES</sub></td>
-<td align="center" width="25%"><strong>⌁</strong><br/><sub>CONTRIBUTIONS</sub></td>
-<td align="center" width="25%"><strong>◎</strong><br/><sub>FOLLOWERS</sub></td>
-</tr>
-</table>
 
 <br/>
 
