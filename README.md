@@ -8,25 +8,19 @@
 <tr>
 <td width="42%" valign="top">
 
-<h3>🧰 Tech Stack</h3>
+<h3>🧰 <font color="#86EFAC">Tech Stack</font></h3>
 
 <table width="100%">
 <tr>
-<td><strong><font color="#86EFAC">Languages</font></strong></td>
-</tr>
-<tr>
-<td>
+<td><strong><font color="#86EFAC">Languages</font></strong><br/>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php,mysql" height="34"/><br/>
 <sub>Java · Python · C++ · JavaScript · PHP · SQL</sub>
 </td>
 </tr>
-<tr><td><br/><strong><font color="#6EE7A0">Web & Apps</font></strong></td></tr>
-<tr>
-<td>
+<tr><td><br/><strong><font color="#6EE7A0">Web & Apps</font></strong><br/>
 <img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind,nodejs,androidstudio,git" height="34"/><br/>
-<sub>HTML · CSS · React · Vite · Bootstrap · Tailwind · Node.js · Android Studio · Git</sub>
-</td>
-</tr>
+<sub>HTML · CSS · React · Vite · Bootstrap · Tailwind · Node.js · Android · Git</sub>
+</td></tr>
 </table>
 
 </td>
@@ -88,9 +82,8 @@
 <br/>
 
 <div align="center">
-
 <hr width="70%" color="#1F7A4D">
-<strong>If our brain cells match, hire me. 🧠</strong><br/>
+<strong><font color="#86EFAC">If our brain cells match, hire me. 🧠</font></strong><br/>
 <sub>If they don't, let's have a coffee and debug it. ☕</sub>
 
 <br/><br/>
