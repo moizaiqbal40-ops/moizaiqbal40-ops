@@ -2,13 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/moizaiqbal40-ops/moizaiqbal40-ops/main/profile-banner.svg" alt="Moeeza Iqbal — Computer Science Student" width="100%"/>
 
-<br/>
+</div>
 
-### Computer Science Student
+<div align="center">
 
-**I decided to become a software engineer because I like building things — and I don't want to get boxed into one kind of project.**
-
-I enjoy jumping between web apps, software projects, AI/computer vision, databases and mobile, figuring out what each project needs and learning whatever I'm missing along the way.
+I’m a **Computer Science student** who likes learning by building — from web apps and databases to mobile development and computer-vision experiments. I don’t want to be boxed into one kind of project; I want to be the person who can look at a problem, learn what it needs, and build it.
 
 </div>
 
@@ -20,93 +18,92 @@ I enjoy jumping between web apps, software projects, AI/computer vision, databas
 
 ### Languages
 
-<table>
-<tr>
-<td align="center" width="105"><img src="https://skillicons.dev/icons?i=java" width="44"/><br/><sub><b>Java</b></sub></td>
-<td align="center" width="105"><img src="https://skillicons.dev/icons?i=python" width="44"/><br/><sub><b>Python</b></sub></td>
-<td align="center" width="105"><img src="https://skillicons.dev/icons?i=cpp" width="44"/><br/><sub><b>C++</b></sub></td>
-<td align="center" width="105"><img src="https://skillicons.dev/icons?i=javascript" width="44"/><br/><sub><b>JavaScript</b></sub></td>
-<td align="center" width="105"><img src="https://skillicons.dev/icons?i=php" width="44"/><br/><sub><b>PHP</b></sub></td>
-<td align="center" width="105"><img src="https://skillicons.dev/icons?i=mysql" width="44"/><br/><sub><b>SQL / MySQL</b></sub></td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php,mysql" height="52"/>
 
-### Frameworks, Platforms & Tools
-
-<table>
-<tr>
-<td align="center" width="105"><img src="https://skillicons.dev/icons?i=react" width="44"/><br/><sub><b>React</b></sub></td>
-<td align="center" width="105"><img src="https://skillicons.dev/icons?i=vite" width="44"/><br/><sub><b>Vite</b></sub></td>
-<td align="center" width="105"><img src="https://skillicons.dev/icons?i=bootstrap" width="44"/><br/><sub><b>Bootstrap</b></sub></td>
-<td align="center" width="105"><img src="https://skillicons.dev/icons?i=tailwind" width="44"/><br/><sub><b>Tailwind</b></sub></td>
-<td align="center" width="105"><img src="https://skillicons.dev/icons?i=nodejs" width="44"/><br/><sub><b>Node.js</b></sub></td>
-<td align="center" width="105"><img src="https://skillicons.dev/icons?i=androidstudio" width="44"/><br/><sub><b>Android</b></sub></td>
-<td align="center" width="105"><img src="https://skillicons.dev/icons?i=git" width="44"/><br/><sub><b>Git</b></sub></td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Snapshot
-
-<table>
-<tr>
-<td width="52%" align="center" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=moizaiqbal40-ops&show_icons=true&hide_border=true&rank_icon=github&theme=chartreuse-dark&bg_color=00000000&title_color=84cc16&icon_color=22c55e&text_color=cbd5e1" width="100%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=moizaiqbal40-ops&hide_border=true&theme=dark&background=00000000&ring=22C55E&fire=A3E635&currStreakLabel=84CC16&sideLabels=84CC16" width="100%"/>
-
-</td>
-<td width="48%" valign="top" align="center">
-
-### 🤟 Featured Project
-
-# Ishara
-
-**PSL Sign Language Translator**
-
-A computer-vision project exploring how hand gestures can become something genuinely useful. It works with hand landmarks and gesture patterns to recognize PSL / Urdu alphabet signs and turn them into readable output.
-
-**MediaPipe · Gesture Classification · Confidence Scoring · Smoothing · TTS**
-
-<br/>
-
-<a href="https://github.com/moizaiqbal40-ops"><img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-22C55E?style=for-the-badge&logo=github&logoColor=07130D"/></a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moizaiqbal40-ops&bg_color=00000000&color=84cc16&line=22c55e&point=a3e635&area=true&area_color=14532d&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### If our brain cells match, hire me.
-### If they don't, let's have a coffee and debug it. ☕
-
-<br/>
-
-<a href="https://www.linkedin.com/in/moeezaiqbal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:moizaiqbal40@gmail.com"><img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/moizaiqbal40-ops"><img src="https://img.shields.io/badge/GitHub-Explore-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+<sub>Java&nbsp;&nbsp;•&nbsp;&nbsp;Python&nbsp;&nbsp;•&nbsp;&nbsp;C++&nbsp;&nbsp;•&nbsp;&nbsp;JavaScript&nbsp;&nbsp;•&nbsp;&nbsp;PHP&nbsp;&nbsp;•&nbsp;&nbsp;SQL</sub>
 
 <br/><br/>
 
-<sub>Build it. Figure it out. Make it better.</sub>
+### Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind,nodejs,androidstudio,git" height="52"/>
+
+<sub>HTML&nbsp;&nbsp;•&nbsp;&nbsp;CSS&nbsp;&nbsp;•&nbsp;&nbsp;React&nbsp;&nbsp;•&nbsp;&nbsp;Vite&nbsp;&nbsp;•&nbsp;&nbsp;Bootstrap&nbsp;&nbsp;•&nbsp;&nbsp;Tailwind&nbsp;&nbsp;•&nbsp;&nbsp;Node.js&nbsp;&nbsp;•&nbsp;&nbsp;Android Studio&nbsp;&nbsp;•&nbsp;&nbsp;Git</sub>
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="54%" valign="top">
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=moizaiqbal40-ops&show_icons=true&hide_border=true&rank_icon=github&theme=dark&bg_color=090D0A&title_color=9AFF45&icon_color=39FF88&text_color=CBD5D1" width="100%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=moizaiqbal40-ops&hide_border=true&theme=dark&background=090D0A&ring=39FF88&fire=9AFF45&currStreakLabel=9AFF45&sideLabels=86EFAC" width="100%"/>
+</div>
+
+### 🌿 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moizaiqbal40-ops&bg_color=090D0A&color=86EFAC&line=39FF88&point=9AFF45&area=true&hide_border=true" width="100%"/>
+</div>
+
+</td>
+
+<td width="46%" valign="top">
+
+## ✦ Featured Project
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/moizaiqbal40-ops/moizaiqbal40-ops/main/profile-banner.svg" width="100%" alt="Ishara project visual"/>
+
+</div>
+
+### 🤟 Ishara
+**PSL Urdu Sign Language Translator**
+
+A project built around recognizing Pakistan Sign Language / Urdu alphabet gestures and turning them into something people can actually use.
+
+**Built around:**
+
+- MediaPipe hand landmarks
+- Geometric gesture recognition
+- Confidence + temporal smoothing
+- Transcript building
+- Text-to-speech
+- Accessibility-focused interaction
+
+<div align="center">
+
+<a href="https://github.com/moizaiqbal40-ops"><img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-39FF88?style=for-the-badge&logo=github&logoColor=07130D"/></a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## Let’s connect?
+
+<a href="https://github.com/moizaiqbal40-ops"><img src="https://img.shields.io/badge/GitHub-Explore-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/moeezaiqbal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:moizaiqbal40@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+**If our brain cells match, hire me. 🧠** &nbsp; **If they don’t, let’s have a coffee and debug it. ☕**
 
 </div>
