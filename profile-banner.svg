@@ -1,0 +1,19 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#020604"/><stop offset="0.5" stop-color="#06110B"/><stop offset="1" stop-color="#010403"/></linearGradient>
+<radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 120) rotate(145) scale(380 180)"><stop stop-color="#39FF88" stop-opacity=".25"/><stop offset="1" stop-color="#39FF88" stop-opacity="0"/></radialGradient>
+<linearGradient id="orbit" x1="580" y1="40" x2="1120" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#1F7A4D" stop-opacity="0"/><stop offset=".5" stop-color="#63FF9A"/><stop offset="1" stop-color="#1F7A4D" stop-opacity="0"/></linearGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="14"/></filter>
+</defs>
+<rect width="1200" height="300" rx="22" fill="url(#bg)"/><rect width="1200" height="300" rx="22" fill="url(#glow)"/>
+<g opacity=".06" stroke="#9FFFC0"><path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/><path d="M100 0V300M220 0V300M340 0V300M460 0V300M580 0V300M700 0V300M820 0V300M940 0V300M1060 0V300"/></g>
+<ellipse cx="900" cy="145" rx="270" ry="76" stroke="#39FF88" stroke-opacity=".12" stroke-width="26" filter="url(#blur)"/><ellipse cx="900" cy="145" rx="270" ry="76" stroke="url(#orbit)" stroke-width="2"/><ellipse cx="900" cy="145" rx="190" ry="55" stroke="#A7F3D0" stroke-opacity=".22" transform="rotate(-16 900 145)"/>
+<circle cx="900" cy="145" r="5" fill="#C6FFD7"/><circle cx="900" cy="145" r="14" stroke="#39FF88" stroke-opacity=".35"/>
+<g fill="#C8FFDA" opacity=".65"><circle cx="90" cy="42" r="2"/><circle cx="180" cy="92" r="1.5"/><circle cx="310" cy="38" r="1.5"/><circle cx="470" cy="250" r="2"/><circle cx="550" cy="68" r="1.5"/><circle cx="720" cy="42" r="2"/><circle cx="1040" cy="70" r="1.5"/><circle cx="1110" cy="230" r="2"/><circle cx="760" cy="265" r="1.5"/></g>
+<g stroke="#39FF88" stroke-linecap="round" opacity=".5"><path d="M78 150h28M92 136v28"/><path d="M1080 115h24M1092 103v24"/></g>
+<text x="600" y="122" text-anchor="middle" fill="#F3FFF7" font-family="Arial, sans-serif" font-weight="700" font-size="54">Moeeza Iqbal</text>
+<text x="600" y="160" text-anchor="middle" fill="#86EFAC" font-family="monospace" font-size="18" letter-spacing="4">COMPUTER SCIENCE STUDENT</text>
+<text x="600" y="197" text-anchor="middle" fill="#B8C9BE" font-family="Arial, sans-serif" font-size="18">Web • Applications • AI / Computer Vision • Databases • Mobile</text>
+<text x="600" y="240" text-anchor="middle" fill="#557062" font-family="monospace" font-size="12" letter-spacing="2">LEARN THE STACK • BUILD THE PRODUCT • UNDERSTAND THE FUNDAMENTALS</text>
+<rect x="1" y="1" width="1198" height="298" rx="22" stroke="#1F7A4D" stroke-opacity=".45"/>
+</svg>
