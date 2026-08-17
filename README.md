@@ -4,26 +4,53 @@
 
 <br/>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="42%" valign="top">
+
 <h3>🧰 Tech Stack</h3>
 
-<table>
+<table width="100%">
 <tr>
-<td align="right"><strong>Languages</strong></td>
+<td><strong><font color="#86EFAC">Languages</font></strong></td>
+</tr>
+<tr>
 <td>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php,mysql" height="38"/><br/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php,mysql" height="34"/><br/>
 <sub>Java · Python · C++ · JavaScript · PHP · SQL</sub>
 </td>
 </tr>
+<tr><td><br/><strong><font color="#6EE7A0">Web & Apps</font></strong></td></tr>
 <tr>
-<td align="right"><strong>Web & Apps</strong></td>
 <td>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind,nodejs,androidstudio,git" height="38"/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind,nodejs,androidstudio,git" height="34"/><br/>
 <sub>HTML · CSS · React · Vite · Bootstrap · Tailwind · Node.js · Android Studio · Git</sub>
 </td>
 </tr>
 </table>
-</div>
+
+</td>
+
+<td width="58%" valign="top">
+
+<h3>GitHub Overview</h3>
+
+<table width="100%">
+<tr>
+<td align="center"><strong>⭐ Stars</strong><br/><sub>Open-source impact</sub></td>
+<td align="center"><strong>📦 Repositories</strong><br/><sub>Projects built</sub></td>
+<td align="center"><strong>🔥 Contributions</strong><br/><sub>Consistent practice</sub></td>
+<td align="center"><strong>👥 Followers</strong><br/><sub>Developer network</sub></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=moizaiqbal40-ops&hide_border=true&theme=dark&background=090D0A&ring=39FF88&fire=9AFF45&currStreakLabel=9AFF45&sideLabels=86EFAC&dates=94A3B8" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -34,10 +61,6 @@
 <h3>Contribution Activity</h3>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=moizaiqbal40-ops&bg_color=090D0A&color=86EFAC&line=39FF88&point=9AFF45&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=moizaiqbal40-ops&hide_border=true&theme=dark&background=090D0A&ring=39FF88&fire=9AFF45&currStreakLabel=9AFF45&sideLabels=86EFAC&dates=94A3B8" width="100%"/>
 
 </td>
 
@@ -66,7 +89,9 @@
 
 <div align="center">
 
-<em>Curious enough to explore. Serious enough to understand what I'm building.</em>
+<hr width="70%" color="#1F7A4D">
+
+<em><font color="#86EFAC">Curious enough to explore. Serious enough to understand what I'm building.</font></em>
 
 <br/><br/>
 
@@ -75,10 +100,10 @@
 
 <br/><br/>
 
-<a href="https://github.com/moizaiqbal40-ops"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/moizaiqbal40-ops"><img src="https://img.shields.io/badge/GitHub-07130D?style=for-the-badge&logo=github&logoColor=86EFAC" alt="GitHub"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/moeezaiqbal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/moeezaiqbal/"><img src="https://img.shields.io/badge/LinkedIn-0A3D2A?style=for-the-badge&logo=linkedin&logoColor=86EFAC" alt="LinkedIn"/></a>
 &nbsp;
-<a href="mailto:moizaiqbal40@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:moeeza.iqbal@gmail.com"><img src="https://img.shields.io/badge/Email-123C2A?style=for-the-badge&logo=gmail&logoColor=86EFAC" alt="Email"/></a>
 
 </div>
