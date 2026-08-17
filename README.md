@@ -12,15 +12,20 @@
 
 <table width="100%">
 <tr>
-<td><strong><font color="#86EFAC">Languages</font></strong><br/>
+<td>
+<strong><font color="#86EFAC">Languages</font></strong><br/>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php,mysql" height="34"/><br/>
 <sub>Java · Python · C++ · JavaScript · PHP · SQL</sub>
 </td>
 </tr>
-<tr><td><br/><strong><font color="#6EE7A0">Web & Apps</font></strong><br/>
+<tr>
+<td>
+<br/>
+<strong><font color="#6EE7A0">Web & Apps</font></strong><br/>
 <img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind,nodejs,androidstudio,git" height="34"/><br/>
 <sub>HTML · CSS · React · Vite · Bootstrap · Tailwind · Node.js · Android · Git</sub>
-</td></tr>
+</td>
+</tr>
 </table>
 
 </td>
@@ -31,12 +36,16 @@
 
 <table width="100%">
 <tr>
-<td align="center"><strong>⭐ Stars</strong><br/><sub>Open-source impact</sub></td>
-<td align="center"><strong>📦 Repositories</strong><br/><sub>Projects built</sub></td>
-<td align="center"><strong>🔥 Contributions</strong><br/><sub>Consistent practice</sub></td>
-<td align="center"><strong>👥 Followers</strong><br/><sub>Developer network</sub></td>
+<td align="center"><strong>⭐ Stars</strong></td>
+<td align="center"><strong>📦 Repositories</strong></td>
+<td align="center"><strong>🔥 Contributions</strong></td>
+<td align="center"><strong>👥 Followers</strong></td>
 </tr>
 </table>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=moizaiqbal40-ops&show_icons=true&hide_border=true&rank_icon=github&theme=dark&bg_color=090D0A&title_color=9AFF45&icon_color=39FF88&text_color=CBD5D1&hide_title=true" width="100%"/>
 
 <br/>
 
@@ -67,12 +76,12 @@
 <h3>🤟 Ishara</h3>
 <strong>PSL Urdu Sign Language Translator</strong>
 
-<p>Exploring computer vision for recognizing PSL / Urdu alphabet gestures and turning them into text and speech.</p>
+<p>A computer-vision project for recognizing Pakistan Sign Language / Urdu alphabet gestures and turning them into useful text and speech.</p>
 
 <p><code>Python</code> <code>MediaPipe</code> <code>Computer Vision</code> <code>Streamlit</code></p>
 
 <div align="center">
-<a href="https://github.com/moizaiqbal40-ops"><img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-39FF88?style=for-the-badge&logo=github&logoColor=07130D" alt="View on GitHub"/></a>
+<a href="https://github.com/moizaiqbal40-ops"><img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-39FF88?style=for-the-badge&logo=github&logoColor=07130D" alt="Explore my GitHub"/></a>
 </div>
 
 </td>
