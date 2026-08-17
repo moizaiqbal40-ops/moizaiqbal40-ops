@@ -1,0 +1,17 @@
+<svg width="900" height="420" viewBox="0 0 900 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="900" y2="420" gradientUnits="userSpaceOnUse"><stop stop-color="#031008"/><stop offset="1" stop-color="#071B10"/></linearGradient>
+<radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(650 205) rotate(135) scale(300 230)"><stop stop-color="#39FF88" stop-opacity=".25"/><stop offset="1" stop-color="#39FF88" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="900" height="420" rx="20" fill="url(#bg)"/><rect width="900" height="420" rx="20" fill="url(#glow)"/>
+<g stroke="#39FF88" stroke-opacity=".22" stroke-width="1"><path d="M550 110L650 170L750 110L820 205L720 285L610 250L550 110Z"/><path d="M610 250L650 170L720 285"/><path d="M750 110L720 285"/></g>
+<g fill="#9AFF45"><circle cx="550" cy="110" r="6"/><circle cx="650" cy="170" r="8"/><circle cx="750" cy="110" r="6"/><circle cx="820" cy="205" r="5"/><circle cx="720" cy="285" r="7"/><circle cx="610" cy="250" r="5"/></g>
+<g transform="translate(650 205)" stroke="#C7FFD7" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><path d="M0 105V15"/><path d="M0 55C-25 40-38 20-35 0C-10 5 5 25 0 55Z"/><path d="M0 65C25 45 42 25 38 5C14 12 0 30 0 65Z"/><path d="M0 85C-30 72-52 52-58 30C-30 32-10 48 0 85Z"/><path d="M0 92C32 78 55 57 62 36C35 38 12 54 0 92Z"/><path d="M-12 110H12"/></g>
+<text x="58" y="112" fill="#9AFF45" font-family="Arial,sans-serif" font-size="54" font-weight="800">ISHARA</text>
+<text x="60" y="154" fill="#E7FFF0" font-family="Arial,sans-serif" font-size="23" letter-spacing="2">PSL URDU SIGN LANGUAGE</text>
+<text x="60" y="184" fill="#E7FFF0" font-family="Arial,sans-serif" font-size="23" letter-spacing="2">TRANSLATOR</text>
+<text x="60" y="240" fill="#AFC5B5" font-family="Arial,sans-serif" font-size="18">Hand landmarks → gesture recognition → Urdu text</text>
+<text x="60" y="270" fill="#AFC5B5" font-family="Arial,sans-serif" font-size="18">→ speech, with accessibility at the center.</text>
+<g font-family="monospace" font-size="14"><rect x="60" y="315" width="112" height="34" rx="17" fill="#0D2B1A" stroke="#2B8A52"/><text x="81" y="337" fill="#86EFAC">MediaPipe</text><rect x="184" y="315" width="82" height="34" rx="17" fill="#0D2B1A" stroke="#2B8A52"/><text x="207" y="337" fill="#86EFAC">Python</text><rect x="278" y="315" width="108" height="34" rx="17" fill="#0D2B1A" stroke="#2B8A52"/><text x="299" y="337" fill="#86EFAC">Streamlit</text></g>
+<rect x="1" y="1" width="898" height="418" rx="20" stroke="#39FF88" stroke-opacity=".35"/>
+</svg>
