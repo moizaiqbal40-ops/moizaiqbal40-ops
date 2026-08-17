@@ -90,11 +90,6 @@
 <div align="center">
 
 <hr width="70%" color="#1F7A4D">
-
-<em><font color="#86EFAC">Curious enough to explore. Serious enough to understand what I'm building.</font></em>
-
-<br/><br/>
-
 <strong>If our brain cells match, hire me. 🧠</strong><br/>
 <sub>If they don't, let's have a coffee and debug it. ☕</sub>
 
