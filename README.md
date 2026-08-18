@@ -11,22 +11,20 @@
 <h2>🧰 <font color="#9AFF45">Tech Stack</font></h2>
 
 <strong><font color="#86EFAC">Languages</font></strong><br/>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php,mysql&perline=6" height="38" alt="Java Python C++ JavaScript PHP MySQL"/><br/>
-<sub>Java &nbsp;&nbsp; Python &nbsp;&nbsp; C++ &nbsp;&nbsp; JavaScript &nbsp;&nbsp; PHP &nbsp;&nbsp; MySQL</sub>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php,mysql&perline=6" width="100%" height="48" alt="Java Python C++ JavaScript PHP MySQL"/><br/>
+<sub>Java &nbsp;&nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp;&nbsp; C++ &nbsp;&nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp;&nbsp; PHP &nbsp;&nbsp;&nbsp;&nbsp; MySQL</sub>
 
 <br/><br/>
 
 <strong><font color="#86EFAC">Web &amp; Apps</font></strong><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind,nodejs,androidstudio,git&perline=9" height="38" alt="HTML CSS React Vite Bootstrap Tailwind Node.js Android Studio Git"/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind,nodejs,androidstudio,git&perline=9" width="100%" height="48" alt="HTML CSS React Vite Bootstrap Tailwind Node.js Android Studio Git"/><br/>
 <sub>HTML &nbsp;&nbsp; CSS &nbsp;&nbsp; React &nbsp;&nbsp; Vite &nbsp;&nbsp; Bootstrap &nbsp;&nbsp; Tailwind &nbsp;&nbsp; Node.js &nbsp;&nbsp; Android &nbsp;&nbsp; Git</sub>
 
 </td>
 
-<td width="20%" valign="top">
+<td width="20%" valign="top" align="center">
 
-<h2>📊 <font color="#9AFF45">GitHub Overview</font></h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=moizaiqbal40-ops&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=dark&amp;bg_color=090D0A&amp;title_color=9AFF45&amp;icon_color=39FF88&amp;text_color=CBD5D1&amp;hide_title=true" width="100%" alt="GitHub statistics"/>
+<img src="https://raw.githubusercontent.com/moizaiqbal40-ops/moizaiqbal40-ops/main/github-activity-overview.svg" width="100%" alt="GitHub Activity Overview"/>
 
 </td>
 </tr>
