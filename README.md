@@ -76,6 +76,7 @@
 <hr width="70%" color="#1F7A4D">
 <strong><font color="#86EFAC">If our brain cells match, hire me. 🧠</font></strong><br/>
 <sub>If they don't, let's have a coffee and debug it. ☕</sub>
+<br></br>
 
 <a href="https://github.com/moizaiqbal40-ops"><img src="https://img.shields.io/badge/GitHub-07130D?style=for-the-badge&amp;logo=github&amp;logoColor=86EFAC" alt="GitHub"/></a>
 &nbsp;
