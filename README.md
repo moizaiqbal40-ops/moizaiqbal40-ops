@@ -7,7 +7,7 @@
 <!-- Skills + GitHub stats -->
 <table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="56%" valign="top">
+<td width="60%" valign="top">
 
 <h2>🧰 <font color="#9AFF45">Tech Stack</font></h2>
 <hr color="#39FF88"/>
@@ -33,7 +33,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=moizaiqbal40-ops&amp;hide_border=true&amp;theme=dark&amp;background=090D0A&amp;ring=39FF88&amp;fire=9AFF45&amp;currStreakLabel=9AFF45&amp;sideLabels=86EFAC&amp;dates=94A3B8" width="100%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=moizaiqbal40-ops&amp;hide_border=true&amp;theme=dark&amp;background=090D0A&amp;ring=39FF88&amp;fire=9AFF45&amp;currStreakLabel=9AFF45&amp;sideLabels=86EFAC&amp;dates=94A3B8" width="50%" alt="GitHub contribution streak"/>
 
 </td>
 </tr>
@@ -76,8 +76,6 @@
 <hr width="70%" color="#1F7A4D">
 <strong><font color="#86EFAC">If our brain cells match, hire me. 🧠</font></strong><br/>
 <sub>If they don't, let's have a coffee and debug it. ☕</sub>
-
-<br/><br/>
 
 <a href="https://github.com/moizaiqbal40-ops"><img src="https://img.shields.io/badge/GitHub-07130D?style=for-the-badge&amp;logo=github&amp;logoColor=86EFAC" alt="GitHub"/></a>
 &nbsp;
