@@ -11,18 +11,33 @@
 <h2>🧰 <font color="#9AFF45">Tech Stack</font></h2>
 
 <strong><font color="#86EFAC">Languages</font></strong><br/>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php,mysql&perline=6" width="100%" height="48" alt="Java Python C++ JavaScript PHP MySQL"/><br/>
-<sub>Java &nbsp;&nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp;&nbsp; C++ &nbsp;&nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp;&nbsp; PHP &nbsp;&nbsp;&nbsp;&nbsp; MySQL</sub>
+<table width="100%" cellpadding="4" cellspacing="0"><tr align="center">
+<td><img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/><br/><sub>Java</sub></td>
+<td><img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/><br/><sub>Python</sub></td>
+<td><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/><br/><sub>C++</sub></td>
+<td><img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
+<td><img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP"/><br/><sub>PHP</sub></td>
+<td><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/><br/><sub>MySQL</sub></td>
+</tr></table>
 
-<br/><br/>
+<br/>
 
 <strong><font color="#86EFAC">Web &amp; Apps</font></strong><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind,nodejs,androidstudio,git&perline=9" width="100%" height="48" alt="HTML CSS React Vite Bootstrap Tailwind Node.js Android Studio Git"/><br/>
-<sub>HTML &nbsp;&nbsp; CSS &nbsp;&nbsp; React &nbsp;&nbsp; Vite &nbsp;&nbsp; Bootstrap &nbsp;&nbsp; Tailwind &nbsp;&nbsp; Node.js &nbsp;&nbsp; Android &nbsp;&nbsp; Git</sub>
+<table width="100%" cellpadding="4" cellspacing="0"><tr align="center">
+<td><img src="https://skillicons.dev/icons?i=html" height="38" alt="HTML"/><br/><sub>HTML</sub></td>
+<td><img src="https://skillicons.dev/icons?i=css" height="38" alt="CSS"/><br/><sub>CSS</sub></td>
+<td><img src="https://skillicons.dev/icons?i=react" height="38" alt="React"/><br/><sub>React</sub></td>
+<td><img src="https://skillicons.dev/icons?i=vite" height="38" alt="Vite"/><br/><sub>Vite</sub></td>
+<td><img src="https://skillicons.dev/icons?i=bootstrap" height="38" alt="Bootstrap"/><br/><sub>Bootstrap</sub></td>
+<td><img src="https://skillicons.dev/icons?i=tailwind" height="38" alt="Tailwind"/><br/><sub>Tailwind</sub></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs" height="38" alt="Node.js"/><br/><sub>Node.js</sub></td>
+<td><img src="https://skillicons.dev/icons?i=androidstudio" height="38" alt="Android Studio"/><br/><sub>Android</sub></td>
+<td><img src="https://skillicons.dev/icons?i=git" height="38" alt="Git"/><br/><sub>Git</sub></td>
+</tr></table>
 
 </td>
 
-<td width="20%" valign="top" align="center">
+<td width="20%" valign="middle" align="center">
 
 <img src="https://raw.githubusercontent.com/moizaiqbal40-ops/moizaiqbal40-ops/main/github-activity-overview.svg" width="100%" alt="GitHub Activity Overview"/>
 
