@@ -11,12 +11,14 @@
 <h2>🧰 <font color="#9AFF45">Tech Stack</font></h2>
 
 <strong><font color="#86EFAC">Languages</font></strong><br/>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php,mysql" height="36"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php,mysql&perline=6" height="38" alt="Java Python C++ JavaScript PHP MySQL"/><br/>
+<sub>Java &nbsp;&nbsp; Python &nbsp;&nbsp; C++ &nbsp;&nbsp; JavaScript &nbsp;&nbsp; PHP &nbsp;&nbsp; MySQL</sub>
 
 <br/><br/>
 
-<strong><font color="#86EFAC">Web & Apps</font></strong><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind,nodejs,androidstudio,git" height="36"/>
+<strong><font color="#86EFAC">Web &amp; Apps</font></strong><br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind,nodejs,androidstudio,git&perline=9" height="38" alt="HTML CSS React Vite Bootstrap Tailwind Node.js Android Studio Git"/><br/>
+<sub>HTML &nbsp;&nbsp; CSS &nbsp;&nbsp; React &nbsp;&nbsp; Vite &nbsp;&nbsp; Bootstrap &nbsp;&nbsp; Tailwind &nbsp;&nbsp; Node.js &nbsp;&nbsp; Android &nbsp;&nbsp; Git</sub>
 
 </td>
 
