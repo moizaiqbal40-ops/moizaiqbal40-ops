@@ -8,72 +8,55 @@
 <tr>
 <td width="42%" valign="top">
 
-<h3>🧰 <font color="#86EFAC">Tech Stack</font></h3>
+<h2>🧰 <font color="#9AFF45">Tech Stack</font></h2>
+<hr color="#39FF88"/>
 
-<table width="100%">
-<tr>
-<td>
 <strong><font color="#86EFAC">Languages</font></strong><br/>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php,mysql" height="34"/><br/>
 <sub>Java · Python · C++ · JavaScript · PHP · SQL</sub>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<strong><font color="#6EE7A0">Web & Apps</font></strong><br/>
+
+<br/><br/>
+
+<strong><font color="#86EFAC">Web & Apps</font></strong><br/>
 <img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind,nodejs,androidstudio,git" height="34"/><br/>
 <sub>HTML · CSS · React · Vite · Bootstrap · Tailwind · Node.js · Android · Git</sub>
-</td>
-</tr>
-</table>
 
 </td>
 
 <td width="58%" valign="top">
 
-<h3>GitHub Overview</h3>
+<h2>📊 GitHub Overview</h2>
+<hr color="#39FF88"/>
 
-<table width="100%">
-<tr>
-<td align="center"><strong>⭐ Stars</strong></td>
-<td align="center"><strong>📦 Repositories</strong></td>
-<td align="center"><strong>🔥 Contributions</strong></td>
-<td align="center"><strong>👥 Followers</strong></td>
+<img src="https://github-readme-stats.vercel.app/api?username=moizaiqbal40-ops&show_icons=true&hide_border=true&rank_icon=github&theme=dark&bg_color=090D0A&title_color=9AFF45&icon_color=39FF88&text_color=CBD5D1&hide_title=true" width="100%"/>
+
+</td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=moizaiqbal40-ops&show_icons=true&hide_border=true&rank_icon=github&theme=dark&bg_color=090D0A&title_color=9AFF45&icon_color=39FF88&text_color=CBD5D1&hide_title=true" width="100%"/>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+
+<h2>📈 Contribution Activity</h2>
+<hr color="#39FF88"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moizaiqbal40-ops&bg_color=090D0A&color=86EFAC&line=39FF88&point=9AFF45&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=moizaiqbal40-ops&hide_border=true&theme=dark&background=090D0A&ring=39FF88&fire=9AFF45&currStreakLabel=9AFF45&sideLabels=86EFAC&dates=94A3B8" width="100%"/>
 
 </td>
-</tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-
-<h3>Contribution Activity</h3>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moizaiqbal40-ops&bg_color=090D0A&color=86EFAC&line=39FF88&point=9AFF45&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-
-</td>
 
 <td width="42%" valign="top">
 
-<h3>Featured Project</h3>
+<h2>🤟 Ishara</h2>
 
 <img src="https://raw.githubusercontent.com/moizaiqbal40-ops/moizaiqbal40-ops/main/ishara-card.svg" width="100%" alt="Ishara — PSL Urdu Sign Language Translator"/>
 
-<h3>🤟 Ishara</h3>
 <strong>PSL Urdu Sign Language Translator</strong>
 
 <p>A computer-vision project for recognizing Pakistan Sign Language / Urdu alphabet gestures and turning them into useful text and speech.</p>
@@ -81,7 +64,7 @@
 <p><code>Python</code> <code>MediaPipe</code> <code>Computer Vision</code> <code>Streamlit</code></p>
 
 <div align="center">
-<a href="https://github.com/moizaiqbal40-ops"><img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-39FF88?style=for-the-badge&logo=github&logoColor=07130D" alt="Explore my GitHub"/></a>
+<a href="https://github.com/moizaiqbal40-ops"><img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-39FF88?style=for-the-badge&logo=github&logoColor=07130D" alt="Connect with me on GitHub"/></a>
 </div>
 
 </td>
