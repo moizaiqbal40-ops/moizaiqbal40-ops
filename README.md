@@ -6,24 +6,21 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="78%" valign="top">
+<td width="80%" valign="top">
 
 <h2>🧰 <font color="#9AFF45">Tech Stack</font></h2>
 
 <strong><font color="#86EFAC">Languages</font></strong><br/>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php,mysql" height="34"/><br/>
-<sub>Java · Python · C++ · JavaScript · PHP · SQL</sub>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php,mysql" height="36"/>
 
 <br/><br/>
 
 <strong><font color="#86EFAC">Web & Apps</font></strong><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind" height="34"/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,androidstudio,git" height="34"/><br/>
-<sub>HTML · CSS · React · Vite · Bootstrap · Tailwind · Node.js · Android · Git</sub>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind,nodejs,androidstudio,git" height="36"/>
 
 </td>
 
-<td width="22%" valign="top">
+<td width="20%" valign="top">
 
 <h2>📊 <font color="#9AFF45">GitHub Overview</font></h2>
 
