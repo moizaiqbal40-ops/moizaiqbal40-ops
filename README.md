@@ -13,18 +13,18 @@
 <hr color="#39FF88"/>
 
 <strong><font color="#86EFAC">Languages</font></strong><br/>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php,mysql" height="32"/><br/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php,mysql" height="30"/><br/>
 <sub>Java · Python · C++ · JavaScript · PHP · SQL</sub>
 
 <br/><br/>
 
 <strong><font color="#86EFAC">Web & Apps</font></strong><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind,nodejs,androidstudio,git" height="32"/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind,nodejs,androidstudio,git" height="30"/><br/>
 <sub>HTML · CSS · React · Vite · Bootstrap · Tailwind · Node.js · Android · Git</sub>
 
 </td>
 
-<td width="44%" valign="top">
+<td width="54%" valign="top">
 
 <h2>📊 <font color="#9AFF45">GitHub Overview</font></h2>
 <hr color="#39FF88"/>
@@ -72,16 +72,6 @@
 </tr>
 </table>
 
-<br/>
-
-<!-- Contribution calendar -->
-<div align="center">
-<h2>🟩 <font color="#9AFF45">Contribution Calendar</font></h2>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moizaiqbal40-ops&amp;theme=github_dark" width="100%" alt="GitHub contribution calendar"/>
-</div>
-
-<br/>
-
 <div align="center">
 <hr width="70%" color="#1F7A4D">
 <strong><font color="#86EFAC">If our brain cells match, hire me. 🧠</font></strong><br/>
@@ -93,6 +83,6 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/moeezaiqbal/"><img src="https://img.shields.io/badge/LinkedIn-0A3D2A?style=for-the-badge&amp;logo=linkedin&amp;logoColor=86EFAC" alt="LinkedIn"/></a>
 &nbsp;
-<a href="mailto:moeeza.iqbal@gmail.com"><img src="https://img.shields.io/badge/Email-123C2A?style=for-the-badge&amp;logo=gmail&amp;logoColor=86EFAC" alt="Email"/></a>
+<a href="mailto:moeeza.iqbal40@gmail.com"><img src="https://img.shields.io/badge/Email-123C2A?style=for-the-badge&amp;logo=gmail&amp;logoColor=86EFAC" alt="Email"/></a>
 
 </div>
