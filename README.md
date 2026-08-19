@@ -10,42 +10,28 @@
 
 <h2>🧰 <font color="#9AFF45">Tech Stack</font></h2>
 
-<strong><font color="#86EFAC">Languages</font></strong><br/>
-<table width="100%" cellpadding="6" cellspacing="0">
-<tr align="center">
-<td width="16.66%"><img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/><br/><sub>Java</sub></td>
-<td width="16.66%"><img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/><br/><sub>Python</sub></td>
-<td width="16.66%"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/><br/><sub>C++</sub></td>
-<td width="16.66%"><img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
-<td width="16.66%"><img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP"/><br/><sub>PHP</sub></td>
-<td width="16.66%"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/><br/><sub>MySQL</sub></td>
-</tr>
-</table>
-
-<br/>
-
-<strong><font color="#86EFAC">Full-Stack Development</font></strong><br/>
 <table width="100%" cellpadding="5" cellspacing="0">
 <tr align="center">
-<td width="11.11%"><img src="https://skillicons.dev/icons?i=html" height="38" alt="HTML"/><br/><sub>HTML</sub></td>
-<td width="11.11%"><img src="https://skillicons.dev/icons?i=css" height="38" alt="CSS"/><br/><sub>CSS</sub></td>
-<td width="11.11%"><img src="https://skillicons.dev/icons?i=react" height="38" alt="React"/><br/><sub>React</sub></td>
-<td width="11.11%"><img src="https://skillicons.dev/icons?i=vite" height="38" alt="Vite"/><br/><sub>Vite</sub></td>
-<td width="11.11%"><img src="https://skillicons.dev/icons?i=bootstrap" height="38" alt="Bootstrap"/><br/><sub>Bootstrap</sub></td>
-<td width="11.11%"><img src="https://skillicons.dev/icons?i=tailwind" height="38" alt="Tailwind"/><br/><sub>Tailwind</sub></td>
-<td width="11.11%"><img src="https://skillicons.dev/icons?i=nodejs" height="38" alt="Node.js"/><br/><sub>Node.js</sub></td>
-<td width="11.11%"><img src="https://skillicons.dev/icons?i=php" height="38" alt="PHP"/><br/><sub>PHP</sub></td>
-<td width="11.11%"><img src="https://skillicons.dev/icons?i=mysql" height="38" alt="MySQL"/><br/><sub>MySQL</sub></td>
+<td width="16.66%"><img src="https://skillicons.dev/icons?i=java" height="36" alt="Java"/><br/><sub>Java</sub></td>
+<td width="16.66%"><img src="https://skillicons.dev/icons?i=python" height="36" alt="Python"/><br/><sub>Python</sub></td>
+<td width="16.66%"><img src="https://skillicons.dev/icons?i=cpp" height="36" alt="C++"/><br/><sub>C++</sub></td>
+<td width="16.66%"><img src="https://skillicons.dev/icons?i=javascript" height="36" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
+<td width="16.66%"><img src="https://skillicons.dev/icons?i=php" height="36" alt="PHP"/><br/><sub>PHP</sub></td>
+<td width="16.66%"><img src="https://skillicons.dev/icons?i=mysql" height="36" alt="MySQL"/><br/><sub>MySQL</sub></td>
 </tr>
-</table>
-
-<br/>
-
-<strong><font color="#86EFAC">Mobile &amp; Tools</font></strong><br/>
-<table width="100%" cellpadding="5" cellspacing="0">
 <tr align="center">
-<td width="50%"><img src="https://skillicons.dev/icons?i=androidstudio" height="38" alt="Android Studio"/><br/><sub>Android Studio</sub></td>
-<td width="50%"><img src="https://skillicons.dev/icons?i=git" height="38" alt="Git"/><br/><sub>Git</sub></td>
+<td><img src="https://skillicons.dev/icons?i=html" height="36" alt="HTML"/><br/><sub>HTML</sub></td>
+<td><img src="https://skillicons.dev/icons?i=css" height="36" alt="CSS"/><br/><sub>CSS</sub></td>
+<td><img src="https://skillicons.dev/icons?i=react" height="36" alt="React"/><br/><sub>React</sub></td>
+<td><img src="https://skillicons.dev/icons?i=vite" height="36" alt="Vite"/><br/><sub>Vite</sub></td>
+<td><img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="Bootstrap"/><br/><sub>Bootstrap</sub></td>
+<td><img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="Tailwind"/><br/><sub>Tailwind</sub></td>
+</tr>
+<tr align="center">
+<td><img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="Node.js"/><br/><sub>Node.js</sub></td>
+<td><img src="https://skillicons.dev/icons?i=androidstudio" height="36" alt="Android Studio"/><br/><sub>Android</sub></td>
+<td><img src="https://skillicons.dev/icons?i=git" height="36" alt="Git"/><br/><sub>Git</sub></td>
+<td colspan="3"><strong><font color="#86EFAC">Full-Stack • Mobile • Dev Tools</font></strong></td>
 </tr>
 </table>
 
@@ -53,15 +39,7 @@
 
 <td width="28%" valign="middle" align="center">
 
-<a href="https://github.com/moizaiqbal40-ops">
-<img src="https://github-readme-stats.vercel.app/api?username=moizaiqbal40-ops&amp;show_icons=true&amp;hide_border=true&amp;bg_color=090D0A&amp;title_color=9AFF45&amp;text_color=CBD5D1&amp;icon_color=39FF88&amp;rank_icon=github&amp;include_all_commits=true" width="100%" alt="GitHub profile statistics"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/moizaiqbal40-ops">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizaiqbal40-ops&amp;layout=compact&amp;hide_border=true&amp;bg_color=090D0A&amp;title_color=9AFF45&amp;text_color=CBD5D1" width="100%" alt="Most used programming languages"/>
-</a>
+<img src="https://raw.githubusercontent.com/moizaiqbal40-ops/moizaiqbal40-ops/main/github-activity-overview.svg" width="100%" alt="GitHub activity overview"/>
 
 </td>
 </tr>
@@ -76,6 +54,13 @@
 <h2>📈 <font color="#9AFF45">Contribution Activity</font></h2>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=moizaiqbal40-ops&amp;bg_color=090D0A&amp;color=86EFAC&amp;line=39FF88&amp;point=9AFF45&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
+
+<br/><br/>
+
+<div align="center">
+<strong><font color="#9AFF45">“Build. Break. Debug. Repeat.”</font></strong><br/>
+<sub>Learning in public, one commit at a time.</sub>
+</div>
 
 </td>
 
