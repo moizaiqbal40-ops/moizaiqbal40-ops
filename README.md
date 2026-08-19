@@ -20,18 +20,15 @@
 <td width="16.66%"><img src="https://skillicons.dev/icons?i=mysql" height="36" alt="MySQL"/><br/><sub>MySQL</sub></td>
 </tr>
 <tr align="center">
-<td><img src="https://skillicons.dev/icons?i=html" height="36" alt="HTML"/><br/><sub>HTML</sub></td>
-<td><img src="https://skillicons.dev/icons?i=css" height="36" alt="CSS"/><br/><sub>CSS</sub></td>
-<td><img src="https://skillicons.dev/icons?i=react" height="36" alt="React"/><br/><sub>React</sub></td>
-<td><img src="https://skillicons.dev/icons?i=vite" height="36" alt="Vite"/><br/><sub>Vite</sub></td>
-<td><img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="Bootstrap"/><br/><sub>Bootstrap</sub></td>
-<td><img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="Tailwind"/><br/><sub>Tailwind</sub></td>
-</tr>
-<tr align="center">
-<td><img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="Node.js"/><br/><sub>Node.js</sub></td>
-<td><img src="https://skillicons.dev/icons?i=androidstudio" height="36" alt="Android Studio"/><br/><sub>Android</sub></td>
-<td><img src="https://skillicons.dev/icons?i=git" height="36" alt="Git"/><br/><sub>Git</sub></td>
-<td colspan="3"><strong><font color="#86EFAC">Full-Stack • Mobile • Dev Tools</font></strong></td>
+<td width="11.11%"><img src="https://skillicons.dev/icons?i=html" height="36" alt="HTML"/><br/><sub>HTML</sub></td>
+<td width="11.11%"><img src="https://skillicons.dev/icons?i=css" height="36" alt="CSS"/><br/><sub>CSS</sub></td>
+<td width="11.11%"><img src="https://skillicons.dev/icons?i=react" height="36" alt="React"/><br/><sub>React</sub></td>
+<td width="11.11%"><img src="https://skillicons.dev/icons?i=vite" height="36" alt="Vite"/><br/><sub>Vite</sub></td>
+<td width="11.11%"><img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="Bootstrap"/><br/><sub>Bootstrap</sub></td>
+<td width="11.11%"><img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="Tailwind"/><br/><sub>Tailwind</sub></td>
+<td width="11.11%"><img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="Node.js"/><br/><sub>Node.js</sub></td>
+<td width="11.11%"><img src="https://skillicons.dev/icons?i=androidstudio" height="36" alt="Android Studio"/><br/><sub>Android</sub></td>
+<td width="11.11%"><img src="https://skillicons.dev/icons?i=git" height="36" alt="Git"/><br/><sub>Git</sub></td>
 </tr>
 </table>
 
@@ -87,7 +84,7 @@
 <div align="center">
 <a href="https://github.com/moizaiqbal40-ops"><img src="https://img.shields.io/badge/GitHub-07130D?style=for-the-badge&amp;logo=github&amp;logoColor=86EFAC" alt="GitHub"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/moeezaiqbal/"><img src="https://img.shields.io/badge/LinkedIn-0A3D2A?style=for-the-badge&amp;logo=linkedin&amp;logoColor=86EFAC" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/moizaiqbal/"><img src="https://img.shields.io/badge/LinkedIn-0A3D2A?style=for-the-badge&amp;logo=linkedin&amp;logoColor=86EFAC" alt="LinkedIn"/></a>
 &nbsp;
 <a href="mailto:moeeza.iqbal@gmail.com"><img src="https://img.shields.io/badge/Email-123C2A?style=for-the-badge&amp;logo=gmail&amp;logoColor=86EFAC" alt="Email"/></a>
 
