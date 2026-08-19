@@ -89,7 +89,4 @@
 <a href="mailto:moeeza.iqbal@gmail.com"><img src="https://img.shields.io/badge/Email-123C2A?style=for-the-badge&amp;logo=gmail&amp;logoColor=86EFAC" alt="Email"/></a>
 
 <br/><br/>
-
-<strong><font color="#86EFAC">If our brain cells match, hire me. 🧠</font></strong><br/>
-<sub>If they don't, let's have a coffee and debug it. ☕</sub>
 </div>
