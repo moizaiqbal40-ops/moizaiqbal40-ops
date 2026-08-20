@@ -23,7 +23,6 @@
 <td width="11.11%"><img src="https://skillicons.dev/icons?i=html" height="36" alt="HTML"/><br/><sub>HTML</sub></td>
 <td width="11.11%"><img src="https://skillicons.dev/icons?i=css" height="36" alt="CSS"/><br/><sub>CSS</sub></td>
 <td width="11.11%"><img src="https://skillicons.dev/icons?i=react" height="36" alt="React"/><br/><sub>React</sub></td>
-<td width="11.11%"><img src="https://skillicons.dev/icons?i=vite" height="36" alt="Vite"/><br/><sub>Vite</sub></td>
 <td width="11.11%"><img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="Bootstrap"/><br/><sub>Bootstrap</sub></td>
 <td width="11.11%"><img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="Tailwind"/><br/><sub>Tailwind</sub></td>
 <td width="11.11%"><img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="Node.js"/><br/><sub>Node.js</sub></td>
