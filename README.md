@@ -31,7 +31,7 @@
 <h2>📊 <font color="#9AFF45">GitHub</font></h2>
 
 <a href="https://github.com/moizaiqbal40-ops">
-  <img src="https://github-readme-stats.vercel.app/api?username=moizaiqbal40-ops&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=dark&amp;bg_color=090D0A&amp;title_color=9AFF45&amp;icon_color=39FF88&amp;text_color=CBD5D1&amp;hide_title=true" width="100%" alt="GitHub statistics"/>
+  <img src="https://raw.githubusercontent.com/moizaiqbal40-ops/moizaiqbal40-ops/main/github-stats.svg" width="100%" alt="GitHub statistics"/>
 </a>
 
 </td>
@@ -47,7 +47,7 @@
 <h2>📈 <font color="#9AFF45">Contribution Activity</font></h2>
 
 <a href="https://github.com/moizaiqbal40-ops">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moizaiqbal40-ops&amp;bg_color=090D0A&amp;color=86EFAC&amp;line=39FF88&amp;point=9AFF45&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
+  <img src="https://raw.githubusercontent.com/moizaiqbal40-ops/moizaiqbal40-ops/main/contribution-activity.svg" width="100%" alt="GitHub contribution activity graph"/>
 </a>
 
 </td>
