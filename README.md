@@ -2,78 +2,82 @@
   <img src="https://raw.githubusercontent.com/moizaiqbal40-ops/moizaiqbal40-ops/main/profile-banner.svg" alt="Moeeza Iqbal — Computer Science Student" width="100%"/>
 </div>
 
-<p align="center">
-  <strong>Computer Science Student · Software Engineering · Computer Vision</strong><br/>
-  <sub>Building practical software, learning deeply, and shipping real projects.</sub>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/moizaiqbal40-ops">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/moizaiqbal/">LinkedIn</a> ·
-  <a href="mailto:moeeza.iqbal@gmail.com">Email</a>
-</p>
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php,mysql" height="48" alt="Java, Python, C++, JavaScript, PHP, MySQL"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind,nodejs,git,github,androidstudio" height="48" alt="HTML, CSS, React, Vite, Bootstrap, Tailwind, Node.js, Git, GitHub, Android Studio"/>
-</p>
-
-<p align="center">
-  <strong>Java + DSA</strong> &nbsp;•&nbsp; <strong>Web Development</strong> &nbsp;•&nbsp; <strong>Computer Vision</strong>
-</p>
-
----
-
-## ⚡ Featured Work
-
-<table width="100%" cellpadding="14" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="50%" valign="top">
+<td width="80%" valign="top">
 
-### 🤟 Ishara
-**PSL / Urdu Alphabet Translator**
+<h2>🧰 <font color="#9AFF45">Tech Stack</font></h2>
 
-Real-time hand landmarks → gesture classification → transcript → speech.
+<strong><font color="#86EFAC">Languages</font></strong><br/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php,mysql&perline=6" height="38" alt="Java Python C++ JavaScript PHP MySQL"/><br/>
+<sub>Java &nbsp;&nbsp; Python &nbsp;&nbsp; C++ &nbsp;&nbsp; JavaScript &nbsp;&nbsp; PHP &nbsp;&nbsp; MySQL</sub>
 
-`Python` `OpenCV` `MediaPipe`
+<br/><br/>
 
-**[View project →](https://github.com/moizaiqbal40-ops/ishara)**
+<strong><font color="#86EFAC">Web &amp; Apps</font></strong><br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind,nodejs,androidstudio,git&perline=9" height="38" alt="HTML CSS React Vite Bootstrap Tailwind Node.js Android Studio Git"/><br/>
+<sub>HTML &nbsp;&nbsp; CSS &nbsp;&nbsp; React &nbsp;&nbsp; Vite &nbsp;&nbsp; Bootstrap &nbsp;&nbsp; Tailwind &nbsp;&nbsp; Node.js &nbsp;&nbsp; Android &nbsp;&nbsp; Git</sub>
 
 </td>
-<td width="50%" valign="top">
 
-### 🎨 AI Virtual Painter
-**Real-Time Gesture Drawing**
+<td width="20%" valign="top">
 
-Hand tracking → gesture interaction → responsive visual drawing.
+<h2>📊 <font color="#9AFF45">GitHub Overview</font></h2>
 
-`Python` `OpenCV` `MediaPipe`
-
-**[View project →](https://github.com/moizaiqbal40-ops/ai_virtual_painter)**
+<img src="https://github-readme-stats.vercel.app/api?username=moizaiqbal40-ops&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=dark&amp;bg_color=090D0A&amp;title_color=9AFF45&amp;icon_color=39FF88&amp;text_color=CBD5D1&amp;hide_title=true" width="100%" alt="GitHub statistics"/>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🎯 What I'm Building Toward
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td width="58%" valign="top">
 
-**Software Engineering** · **DSA in Java** · **Computer Vision** · **Product-focused projects**
+<h2>📈 <font color="#9AFF45">Contribution Activity</font></h2>
 
-I learn by building systems that solve a real problem—not by collecting tutorials.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moizaiqbal40-ops&amp;bg_color=090D0A&amp;color=86EFAC&amp;line=39FF88&amp;point=9AFF45&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
 
----
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moizaiqbal40-ops&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" height="165"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=moizaiqbal40-ops&amp;hide_border=true&amp;theme=dark&amp;background=090D0A&amp;ring=39FF88&amp;fire=9AFF45&amp;currStreakLabel=9AFF45&amp;sideLabels=86EFAC&amp;dates=94A3B8" width="100%" alt="GitHub contribution streak"/>
 
-<p align="center">
-  <sub><strong>Build. Break. Debug. Repeat.</strong></sub>
-</p>
+</td>
+
+<td width="42%" valign="top">
+
+<h2>🤟 <font color="#9AFF45">Ishara</font></h2>
+
+<img src="https://raw.githubusercontent.com/moizaiqbal40-ops/moizaiqbal40-ops/main/ishara-card.svg" width="100%" alt="Ishara — PSL Urdu Sign Language Translator"/>
+
+<strong>PSL Urdu Sign Language Translator</strong>
+
+<p>Computer-vision project that recognizes Pakistan Sign Language / Urdu alphabet gestures and converts them into useful text and speech.</p>
+
+<div align="center">
+<a href="https://github.com/moizaiqbal40-ops/ishara"><img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-39FF88?style=for-the-badge&amp;logo=github&amp;logoColor=07130D" alt="View Ishara on GitHub"/></a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<strong><font color="#86EFAC">If our brain cells match, hire me. 🧠</font></strong><br/>
+<sub>If they don't, let's have a coffee and debug it. ☕</sub>
+
+<br/><br/>
+
+<a href="https://github.com/moizaiqbal40-ops"><img src="https://img.shields.io/badge/GitHub-07130D?style=for-the-badge&amp;logo=github&amp;logoColor=86EFAC" alt="GitHub"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/moizaiqbal/"><img src="https://img.shields.io/badge/LinkedIn-0A3D2A?style=for-the-badge&amp;logo=linkedin&amp;logoColor=86EFAC" alt="LinkedIn"/></a>
+&nbsp;
+<a href="mailto:moeeza.iqbal@gmail.com"><img src="https://img.shields.io/badge/Email-123C2A?style=for-the-badge&amp;logo=gmail&amp;logoColor=86EFAC" alt="Email"/></a>
+
+</div>
