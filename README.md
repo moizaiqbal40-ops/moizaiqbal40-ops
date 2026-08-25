@@ -3,11 +3,6 @@
 </div>
 
 <p align="center">
-  <strong>Computer Science Student · Software Engineering · Computer Vision</strong><br/>
-  <sub>Building practical software, learning deeply, and shipping real projects.</sub>
-</p>
-
-<p align="center">
   <a href="https://github.com/moizaiqbal40-ops">GitHub</a> ·
   <a href="https://www.linkedin.com/in/moizaiqbal/">LinkedIn</a> ·
   <a href="mailto:moeeza.iqbal@gmail.com">Email</a>
