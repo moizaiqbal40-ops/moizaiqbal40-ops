@@ -1,13 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/moizaiqbal40-ops/moizaiqbal40-ops/main/profile-banner.svg" alt="Moeeza Iqbal — Computer Science Student" width="100%"/>
 </div>
-
-<p align="center">
-  <a href="https://github.com/moizaiqbal40-ops">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/moizaiqbal/">LinkedIn</a> ·
-  <a href="mailto:moeeza.iqbal@gmail.com">Email</a>
-</p>
-
 ---
 
 ## 🧰 Tech Stack
