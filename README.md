@@ -16,76 +16,43 @@
 
 <br/>
 
-<table width="100%" cellpadding="12" cellspacing="0">
-<tr>
-<td width="50%" valign="top">
+## ⚙️ Core Stack
 
-<h2>⚙️ Core Stack</h2>
+**Languages:** Java · Python · C++ · JavaScript · PHP  
+**Web:** React · Node.js · HTML · CSS · Bootstrap · Tailwind  
+**Data:** MySQL  
+**Tools:** Git · GitHub · VS Code · Android Studio  
+**Focus:** Data Structures & Algorithms · Software Engineering · Computer Vision
 
-<p><strong>Languages</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php" height="38" alt="Java Python C++ JavaScript PHP"/>
-</p>
+## 🎯 Engineering Focus
 
-<p><strong>Web &amp; Data</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,bootstrap,tailwind,mysql" height="38" alt="React Node.js HTML CSS Bootstrap Tailwind MySQL"/>
-</p>
+- Data Structures & Algorithms in Java
+- Software engineering and full-stack development
+- Computer vision with Python and OpenCV
+- Clean, maintainable and user-focused applications
 
-<p><strong>Tools</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" height="38" alt="Git GitHub VS Code Android Studio"/>
-</p>
+## 🚀 Featured Projects
 
-</td>
-<td width="50%" valign="top">
+### 🤟 [Ishara](https://github.com/moizaiqbal40-ops/ishara)
+Computer-vision based Pakistan Sign Language / Urdu alphabet translator using hand landmarks, geometric classification and speech output.
 
-<h2>🎯 Engineering Focus</h2>
+### 🧠 [DSA Visualizer](https://github.com/moizaiqbal40-ops/dsa-visualizer-pro)
+Interactive visualization project focused on making data structures and algorithms easier to understand through execution and animation.
 
-<ul>
-  <li>Data Structures &amp; Algorithms in Java</li>
-  <li>Software engineering and full-stack development</li>
-  <li>Computer vision with Python and OpenCV</li>
-  <li>Clean, maintainable and user-focused applications</li>
-</ul>
+### 🎨 [AI Virtual Painter](https://github.com/moizaiqbal40-ops/ai_virtual_painter)
+Real-time computer-vision drawing application using hand tracking and gesture interaction.
 
-<p><strong>Currently building:</strong> portfolio-grade projects that demonstrate problem solving, architecture, debugging and real product thinking.</p>
+## 📈 GitHub Activity
 
-</td>
-</tr>
-</table>
+My live contribution history is available directly on my GitHub profile:
 
-<br/>
+**[View contribution graph →](https://github.com/moizaiqbal40-ops)**
 
-<h2>🚀 Featured Projects</h2>
+I intentionally removed the third-party activity-graph image from this README because the hosted service was returning a broken image. This keeps the profile free of unreliable external image dependencies.
 
-<table width="100%" cellpadding="12" cellspacing="0">
-<tr>
-<td width="33%" valign="top">
-<h3>🤟 Ishara</h3>
-<p>Computer-vision based Pakistan Sign Language / Urdu alphabet translator using hand landmarks, geometric classification and speech output.</p>
-<p><a href="https://github.com/moizaiqbal40-ops/ishara">View project →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3>🧠 DSA Visualizer</h3>
-<p>Interactive visualization project focused on making data structures and algorithms easier to understand through execution and animation.</p>
-<p><a href="https://github.com/moizaiqbal40-ops/dsa-visualizer-pro">View project →</a></p>
-</td>
-<td width="33%" valign="top">
-<h3>🎨 AI Virtual Painter</h3>
-<p>Real-time computer-vision drawing application using hand tracking and gesture interaction.</p>
-<p><a href="https://github.com/moizaiqbal40-ops/ai_virtual_painter">View project →</a></p>
-</td>
-</tr>
-</table>
+## 💡 Currently Building
 
-<br/>
-
-<h2>📈 Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moizaiqbal40-ops&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
-</p>
+Portfolio-grade projects that demonstrate problem solving, architecture, debugging and real product thinking.
 
 <br/>
 
