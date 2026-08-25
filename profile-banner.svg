@@ -3,8 +3,7 @@
 <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#020604"/><stop offset=".48" stop-color="#07150D"/><stop offset="1" stop-color="#010403"/></linearGradient>
 <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(950 135) rotate(145) scale(420 205)"><stop stop-color="#39FF88" stop-opacity=".30"/><stop offset="1" stop-color="#39FF88" stop-opacity="0"/></radialGradient>
 <linearGradient id="orbit" x1="610" y1="45" x2="1130" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#1F7A4D" stop-opacity="0"/><stop offset=".5" stop-color="#63FF9A"/><stop offset="1" stop-color="#1F7A4D" stop-opacity="0"/></linearGradient>
-<filter id="blur"><feGaussianBlur stdDeviation="15"/></filter>
-<filter id="soft"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="blur"><feGaussianBlur stdDeviation="15"/></filter><filter id="soft"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
 <rect width="1200" height="300" rx="22" fill="url(#bg)"/><rect width="1200" height="300" rx="22" fill="url(#glow)"/>
 <g opacity=".055" stroke="#9FFFC0"><path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/><path d="M100 0V300M220 0V300M340 0V300M460 0V300M580 0V300M700 0V300M820 0V300M940 0V300M1060 0V300"/></g>
@@ -12,9 +11,6 @@
 <circle cx="925" cy="145" r="6" fill="#E5FFED" filter="url(#soft)"/><circle cx="925" cy="145" r="19" stroke="#39FF88" stroke-opacity=".42"/>
 <g fill="#D8FFE5" opacity=".72"><circle cx="90" cy="42" r="2"/><circle cx="180" cy="92" r="1.5"/><circle cx="310" cy="38" r="1.5"/><circle cx="470" cy="250" r="2"/><circle cx="550" cy="68" r="1.5"/><circle cx="720" cy="42" r="2"/><circle cx="1040" cy="70" r="1.5"/><circle cx="1110" cy="230" r="2"/><circle cx="760" cy="265" r="1.5"/></g>
 <g stroke="#39FF88" stroke-linecap="round" opacity=".65"><path d="M78 150h28M92 136v28"/><path d="M1080 115h24M1092 103v24"/></g>
-<text x="92" y="106" fill="#FFFFFF" font-family="Arial,sans-serif" font-weight="800" font-size="58">MOEEZA IQBAL</text>
-<text x="94" y="145" fill="#B7FFCF" font-family="monospace" font-weight="700" font-size="20" letter-spacing="3">COMPUTER SCIENCE STUDENT</text>
-<text x="94" y="180" fill="#F2FFF6" font-family="Arial,sans-serif" font-size="17">Building across web, applications, AI / computer vision,</text>
-<text x="94" y="205" fill="#F2FFF6" font-family="Arial,sans-serif" font-size="17">databases and mobile — while getting the fundamentals right.</text>
-<text x="94" y="245" fill="#9AFF45" font-family="monospace" font-size="13" letter-spacing="2">LEARN • BUILD • SHIP • KEEP GETTING BETTER</text>
+<text x="92" y="116" fill="#FFFFFF" font-family="Arial,sans-serif" font-weight="800" font-size="58">MOEEZA IQBAL</text>
+<text x="94" y="158" fill="#B7FFCF" font-family="monospace" font-weight="700" font-size="20" letter-spacing="2">CS STUDENT  ·  SOFTWARE ENGINEER</text>
 <rect x="1" y="1" width="1198" height="298" rx="22" stroke="#39FF88" stroke-opacity=".45"/></svg>
