@@ -6,25 +6,38 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="80%" valign="top">
+<td width="78%" valign="top">
 
 <h2>🧰 <font color="#9AFF45">Tech Stack</font></h2>
 
 <strong><font color="#86EFAC">Languages</font></strong><br/>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php,mysql&perline=6" height="38" alt="Java Python C++ JavaScript PHP MySQL"/><br/>
-<sub>Java &nbsp;&nbsp; Python &nbsp;&nbsp; C++ &nbsp;&nbsp; JavaScript &nbsp;&nbsp; PHP &nbsp;&nbsp; MySQL</sub>
-
-<br/><br/>
+<p>
+<img src="https://skillicons.dev/icons?i=java" height="38" alt="Java"/> <sub>Java</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" height="38" alt="Python"/> <sub>Python</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" height="38" alt="C++"/> <sub>C++</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=javascript" height="38" alt="JavaScript"/> <sub>JavaScript</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=php" height="38" alt="PHP"/> <sub>PHP</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="38" alt="MySQL"/> <sub>MySQL</sub>
+</p>
 
 <strong><font color="#86EFAC">Web &amp; Apps</font></strong><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind,nodejs,androidstudio,git&perline=9" height="38" alt="HTML CSS React Vite Bootstrap Tailwind Node.js Android Studio Git"/><br/>
-<sub>HTML &nbsp;&nbsp; CSS &nbsp;&nbsp; React &nbsp;&nbsp; Vite &nbsp;&nbsp; Bootstrap &nbsp;&nbsp; Tailwind &nbsp;&nbsp; Node.js &nbsp;&nbsp; Android &nbsp;&nbsp; Git</sub>
+<p>
+<img src="https://skillicons.dev/icons?i=html" height="38" alt="HTML"/> <sub>HTML</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="38" alt="CSS"/> <sub>CSS</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" height="38" alt="React"/> <sub>React</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vite" height="38" alt="Vite"/> <sub>Vite</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" height="38" alt="Bootstrap"/> <sub>Bootstrap</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" height="38" alt="Tailwind"/> <sub>Tailwind</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" height="38" alt="Node.js"/> <sub>Node.js</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=androidstudio" height="38" alt="Android Studio"/> <sub>Android</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="38" alt="Git"/> <sub>Git</sub>
+</p>
 
 </td>
 
-<td width="20%" valign="top">
+<td width="22%" valign="top">
 
-<h2>📊 <font color="#9AFF45">GitHub Overview</font></h2>
+<h2>📊 <font color="#9AFF45">GitHub</font></h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=moizaiqbal40-ops&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=dark&amp;bg_color=090D0A&amp;title_color=9AFF45&amp;icon_color=39FF88&amp;text_color=CBD5D1&amp;hide_title=true" width="100%" alt="GitHub statistics"/>
 
@@ -32,7 +45,7 @@
 </tr>
 </table>
 
-<br/>
+<hr/>
 
 <table width="100%" cellpadding="0" cellspacing="0">
 <tr>
@@ -50,13 +63,13 @@
 
 <td width="42%" valign="top">
 
-<h2>🤟 <font color="#9AFF45">Ishara</font></h2>
+<h2>🤟 <font color="#9AFF45">Featured · Ishara</font></h2>
 
 <img src="https://raw.githubusercontent.com/moizaiqbal40-ops/moizaiqbal40-ops/main/ishara-card.svg" width="100%" alt="Ishara — PSL Urdu Sign Language Translator"/>
 
 <strong>PSL Urdu Sign Language Translator</strong>
 
-<p>Computer-vision project that recognizes Pakistan Sign Language / Urdu alphabet gestures and converts them into useful text and speech.</p>
+<p>Computer-vision system that recognizes Pakistan Sign Language / Urdu alphabet gestures and converts them into text and speech.</p>
 
 <div align="center">
 <a href="https://github.com/moizaiqbal40-ops/ishara"><img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-39FF88?style=for-the-badge&amp;logo=github&amp;logoColor=07130D" alt="View Ishara on GitHub"/></a>
