@@ -4,38 +4,52 @@
 
 <br/>
 
-<table width="100%" cellpadding="0" cellspacing="0">
+<div align="center">
+  <h2>Computer Science Student · Software Engineering · Computer Vision</h2>
+  <p>Building practical software with Java, Python and modern web technologies.</p>
+  <p>
+    <a href="https://github.com/moizaiqbal40-ops">GitHub</a> ·
+    <a href="https://www.linkedin.com/in/moizaiqbal/">LinkedIn</a> ·
+    <a href="mailto:moeeza.iqbal@gmail.com">Email</a>
+  </p>
+</div>
+
+<br/>
+
+<table width="100%" cellpadding="12" cellspacing="0">
 <tr>
-<td width="72%" valign="top">
+<td width="50%" valign="top">
 
-<h2>🧰 <font color="#9AFF45">Tech Stack</font></h2>
+<h2>⚙️ Core Stack</h2>
 
-<table width="100%" cellpadding="5" cellspacing="0">
-<tr align="center">
-<td width="16.66%"><img src="https://skillicons.dev/icons?i=java" height="36" alt="Java"/><br/><sub>Java</sub></td>
-<td width="16.66%"><img src="https://skillicons.dev/icons?i=python" height="36" alt="Python"/><br/><sub>Python</sub></td>
-<td width="16.66%"><img src="https://skillicons.dev/icons?i=cpp" height="36" alt="C++"/><br/><sub>C++</sub></td>
-<td width="16.66%"><img src="https://skillicons.dev/icons?i=javascript" height="36" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
-<td width="16.66%"><img src="https://skillicons.dev/icons?i=php" height="36" alt="PHP"/><br/><sub>PHP</sub></td>
-<td width="16.66%"><img src="https://skillicons.dev/icons?i=mysql" height="36" alt="MySQL"/><br/><sub>MySQL</sub></td>
-</tr>
-<tr align="center">
-<td width="11.11%"><img src="https://skillicons.dev/icons?i=html" height="36" alt="HTML"/><br/><sub>HTML</sub></td>
-<td width="11.11%"><img src="https://skillicons.dev/icons?i=css" height="36" alt="CSS"/><br/><sub>CSS</sub></td>
-<td width="11.11%"><img src="https://skillicons.dev/icons?i=react" height="36" alt="React"/><br/><sub>React</sub></td>
-<td width="11.11%"><img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="Bootstrap"/><br/><sub>Bootstrap</sub></td>
-<td width="11.11%"><img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="Tailwind"/><br/><sub>Tailwind</sub></td>
-<td width="11.11%"><img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="Node.js"/><br/><sub>Node.js</sub></td>
-<td width="11.11%"><img src="https://skillicons.dev/icons?i=androidstudio" height="36" alt="Android Studio"/><br/><sub>Android</sub></td>
-<td width="11.11%"><img src="https://skillicons.dev/icons?i=git" height="36" alt="Git"/><br/><sub>Git</sub></td>
-</tr>
-</table>
+<p><strong>Languages</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php" height="38" alt="Java Python C++ JavaScript PHP"/>
+</p>
+
+<p><strong>Web &amp; Data</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,bootstrap,tailwind,mysql" height="38" alt="React Node.js HTML CSS Bootstrap Tailwind MySQL"/>
+</p>
+
+<p><strong>Tools</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" height="38" alt="Git GitHub VS Code Android Studio"/>
+</p>
 
 </td>
+<td width="50%" valign="top">
 
-<td width="28%" valign="middle" align="center">
+<h2>🎯 Engineering Focus</h2>
 
-<img src="https://raw.githubusercontent.com/moizaiqbal40-ops/moizaiqbal40-ops/main/github-activity-overview.svg" width="100%" alt="GitHub activity overview"/>
+<ul>
+  <li>Data Structures &amp; Algorithms in Java</li>
+  <li>Software engineering and full-stack development</li>
+  <li>Computer vision with Python and OpenCV</li>
+  <li>Clean, maintainable and user-focused applications</li>
+</ul>
+
+<p><strong>Currently building:</strong> portfolio-grade projects that demonstrate problem solving, architecture, debugging and real product thinking.</p>
 
 </td>
 </tr>
@@ -43,49 +57,39 @@
 
 <br/>
 
-<table width="100%" cellpadding="0" cellspacing="0">
+<h2>🚀 Featured Projects</h2>
+
+<table width="100%" cellpadding="12" cellspacing="0">
 <tr>
-<td width="62%" valign="top">
-
-<h2>📈 <font color="#9AFF45">Contribution Activity</font></h2>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moizaiqbal40-ops&amp;bg_color=090D0A&amp;color=86EFAC&amp;line=39FF88&amp;point=9AFF45&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
-
-<br/><br/>
-
-<div align="center">
-<strong><font color="#9AFF45">“Build. Break. Debug. Repeat.”</font></strong><br/>
-<sub>Learning in public, one commit at a time.</sub>
-</div>
-
+<td width="33%" valign="top">
+<h3>🤟 Ishara</h3>
+<p>Computer-vision based Pakistan Sign Language / Urdu alphabet translator using hand landmarks, geometric classification and speech output.</p>
+<p><a href="https://github.com/moizaiqbal40-ops/ishara">View project →</a></p>
 </td>
-
-<td width="38%" valign="top">
-
-<h2>🤟 <font color="#9AFF45">Ishara</font></h2>
-
-<img src="https://raw.githubusercontent.com/moizaiqbal40-ops/moizaiqbal40-ops/main/ishara-card.svg" width="100%" alt="Ishara — PSL Urdu Sign Language Translator"/>
-
-<strong>PSL Urdu Sign Language Translator</strong>
-
-<p>Computer-vision project that recognizes Pakistan Sign Language / Urdu alphabet gestures and converts them into useful text and speech.</p>
-
-<div align="center">
-<a href="https://github.com/moizaiqbal40-ops/ishara"><img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-39FF88?style=for-the-badge&amp;logo=github&amp;logoColor=07130D" alt="View Ishara on GitHub"/></a>
-</div>
-
+<td width="33%" valign="top">
+<h3>🧠 DSA Visualizer</h3>
+<p>Interactive visualization project focused on making data structures and algorithms easier to understand through execution and animation.</p>
+<p><a href="https://github.com/moizaiqbal40-ops/dsa-visualizer-pro">View project →</a></p>
+</td>
+<td width="33%" valign="top">
+<h3>🎨 AI Virtual Painter</h3>
+<p>Real-time computer-vision drawing application using hand tracking and gesture interaction.</p>
+<p><a href="https://github.com/moizaiqbal40-ops/ai_virtual_painter">View project →</a></p>
 </td>
 </tr>
 </table>
 
 <br/>
 
-<div align="center">
-<a href="https://github.com/moizaiqbal40-ops"><img src="https://img.shields.io/badge/GitHub-07130D?style=for-the-badge&amp;logo=github&amp;logoColor=86EFAC" alt="GitHub"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/moizaiqbal/"><img src="https://img.shields.io/badge/LinkedIn-0A3D2A?style=for-the-badge&amp;logo=linkedin&amp;logoColor=86EFAC" alt="LinkedIn"/></a>
-&nbsp;
-<a href="mailto:moeeza.iqbal@gmail.com"><img src="https://img.shields.io/badge/Email-123C2A?style=for-the-badge&amp;logo=gmail&amp;logoColor=86EFAC" alt="Email"/></a>
+<h2>📈 Contribution Activity</h2>
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moizaiqbal40-ops&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
+</p>
+
+<br/>
+
+<div align="center">
+  <strong>Build. Break. Debug. Repeat.</strong><br/>
+  <sub>Learning in public, one meaningful commit at a time.</sub>
 </div>
