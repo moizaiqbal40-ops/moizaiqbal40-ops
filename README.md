@@ -2,12 +2,29 @@
   <img src="https://raw.githubusercontent.com/moizaiqbal40-ops/moizaiqbal40-ops/main/profile-banner.svg" alt="Moeeza Iqbal — Computer Science Student" width="100%"/>
 </div>
 
+<p align="center">
+  <strong>Computer Science Student · Software Engineering · Computer Vision</strong><br/>
+  <sub>Building practical software, learning deeply, and shipping real projects.</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/moizaiqbal40-ops">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/moizaiqbal/">LinkedIn</a> ·
+  <a href="mailto:moeeza.iqbal@gmail.com">Email</a>
+</p>
+
+---
+
 ## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,php,mysql" height="48" alt="Java, Python, C++, JavaScript, PHP, MySQL"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind,nodejs,git,github,androidstudio" height="48" alt="HTML, CSS, React, Vite, Bootstrap, Tailwind, Node.js, Git, GitHub, Android Studio"/>
+</p>
+
+<p align="center">
+  <strong>Java + DSA</strong> &nbsp;•&nbsp; <strong>Web Development</strong> &nbsp;•&nbsp; <strong>Computer Vision</strong>
 </p>
 
 ---
@@ -33,7 +50,7 @@ Real-time hand landmarks → gesture classification → transcript → speech.
 ### 🎨 AI Virtual Painter
 **Real-Time Gesture Drawing**
 
-Hand tracking + gesture interaction + responsive visual drawing.
+Hand tracking → gesture interaction → responsive visual drawing.
 
 `Python` `OpenCV` `MediaPipe`
 
@@ -42,6 +59,14 @@ Hand tracking + gesture interaction + responsive visual drawing.
 </td>
 </tr>
 </table>
+
+---
+
+## 🎯 What I'm Building Toward
+
+**Software Engineering** · **DSA in Java** · **Computer Vision** · **Product-focused projects**
+
+I learn by building systems that solve a real problem—not by collecting tutorials.
 
 ---
 
