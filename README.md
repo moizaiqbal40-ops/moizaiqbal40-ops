@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/moizaiqbal40-ops/moizaiqbal40-ops/main/profile-banner.svg" alt="Moeeza Iqbal — Computer Science Student" width="100%"/>
 </div>
----
 
 ## 🧰 Tech Stack
 
@@ -11,11 +10,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind,nodejs,git,github,androidstudio" height="48" alt="HTML, CSS, React, Vite, Bootstrap, Tailwind, Node.js, Git, GitHub, Android Studio"/>
 </p>
 
-<p align="center">
-  <strong>Java + DSA</strong> &nbsp;•&nbsp; <strong>Web Development</strong> &nbsp;•&nbsp; <strong>Computer Vision</strong>
-</p>
-
----
 
 ## ⚡ Featured Work
 
