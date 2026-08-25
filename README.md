@@ -42,13 +42,6 @@ Hand tracking → gesture interaction → responsive visual drawing.
 </tr>
 </table>
 
----
-
-## 🎯 What I'm Building Toward
-
-**Software Engineering** · **DSA in Java** · **Computer Vision** · **Product-focused projects**
-
-I learn by building systems that solve a real problem—not by collecting tutorials.
 
 ---
 
