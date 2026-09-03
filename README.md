@@ -20,7 +20,7 @@
 
 <!-- ========================= PINNED ========================= -->
 
-<h2 align="right"><samp>PINNED</samp></h2>
+<h2 align="left"><samp>PINNED</samp></h2>
 
 <table align="center">
 <tr>
