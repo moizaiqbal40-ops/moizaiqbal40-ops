@@ -152,11 +152,4 @@ View repository →
     <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
 </p>
-
-<p align="center">
-  <sub>Building • Learning • Creating</sub>
-</p>
-
-<p align="center">
-  <samp>Thanks for visiting ✦</samp>
-</p>
+<p align="center"> <sub>Open to software engineering opportunities, collaborations, and interesting projects.</sub> </p>
