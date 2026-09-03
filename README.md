@@ -19,37 +19,6 @@
 </div>
 
 <br>
-
-<!-- ========================= BIO ========================= -->
-
-<table>
-<tr>
-
-<td width="72%" valign="middle">
-
-<h2> BIO</h2>
-
-I build <strong>full-stack software, developer tools, and AI-powered interfaces</strong> — turning ideas into useful, working systems.
-
-Focused on <strong>software engineering, Java & DSA, intelligent applications, and building products that people can actually use.</strong>
-
-</td>
-
-<td width="28%" align="center" valign="middle">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0F3D2E&customColorList=6&text=AI&fontSize=38&fontColor=8FE3B2&animation=fadeIn"
-  width="150"
-  alt="AI"
-/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
 <!-- ========================= PINNED ========================= -->
 
 <h2 align="center">
