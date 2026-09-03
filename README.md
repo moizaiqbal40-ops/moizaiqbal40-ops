@@ -59,34 +59,28 @@ Focused on <strong>software engineering, Java & DSA, intelligent applications, a
 <table>
 <tr>
 
-<td width="50%" valign="top" style="border:1px solid #3A8F68; border-radius:10px;">
+<td width="50%" valign="top" align="center" style="border:1px solid #3A8F68; border-radius:10px;">
 
-<strong>DSA Visualizer Pro</strong>
+<h3>DSA Visualizer Pro</h3>
 
-<br>
-<sub>Interactive DSA learning tool with animated algorithms, synchronized pseudocode, step playback, and live complexity stats.</sub>
+<p><sub>Explore data structures and algorithms through animated execution, synchronized pseudocode, step-by-step playback, and live complexity insights.</sub></p>
 
-<br><br>
-<sub>React · React Router · Tailwind CSS · Framer Motion</sub>
+<p><sub><strong>React</strong> · React Router · Tailwind CSS · Framer Motion</sub></p>
 
-<br><br>
 <a href="https://github.com/moizaiqbal40-ops/dsa-visualizer-pro">
   <img src="https://img.shields.io/badge/View%20Repository-0F3D2E?style=flat-square&logo=github&logoColor=8FE3B2" alt="View Repository">
 </a>
 
 </td>
 
-<td width="50%" valign="top" style="border:1px solid #3A8F68; border-radius:10px;">
+<td width="50%" valign="top" align="center" style="border:1px solid #3A8F68; border-radius:10px;">
 
-<strong>Crumb & Co</strong>
+<h3>Crumb & Co</h3>
 
-<br>
-<sub>Full-stack bakery ordering system with checkout, MySQL order storage, REST-style APIs, and an admin dashboard.</sub>
+<p><sub>A complete bakery ordering system built around real checkout flows, persistent MySQL data, API-driven operations, and an admin dashboard.</sub></p>
 
-<br><br>
-<sub>PHP · MySQL · JavaScript · Apache</sub>
+<p><sub><strong>PHP</strong> · MySQL · JavaScript · Apache</sub></p>
 
-<br><br>
 <a href="https://github.com/moizaiqbal40-ops/crumb-co-fullstack">
   <img src="https://img.shields.io/badge/View%20Repository-0F3D2E?style=flat-square&logo=github&logoColor=8FE3B2" alt="View Repository">
 </a>
@@ -173,7 +167,7 @@ Focused on <strong>software engineering, Java & DSA, intelligent applications, a
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/moeezaiqbal/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/moeezaaiqbal/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
