@@ -144,16 +144,17 @@ View repository →
     <img src="https://img.shields.io/badge/LinkedIn-0B8F55?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-   
+<br><br>
 
   <a href="YOUR_PORTFOLIO_LINK" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-0B8F55?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
 
-   
+<br><br>
 
   <a href="mailto:moizaiqbal40@gmail.com">
     <img src="https://img.shields.io/badge/Email-0B8F55?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
 </p>
+
