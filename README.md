@@ -18,7 +18,7 @@
 
 I build **full-stack software, developer tools, and AI-powered interfaces** — turning ideas into useful, working systems.
 
-Currently focused on **Java, DSA, software engineering, and intelligent applications.**
+Focused on **software engineering, Java & DSA, intelligent applications, and building products that people can actually use.**
 
 </td>
 <td width="32%" align="center" valign="middle">
@@ -86,8 +86,8 @@ Real-time **computer-vision interaction** through hand tracking.
 &nbsp;
 <a href="https://github.com/moizaiqbal40-ops"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 &nbsp;
-<a href="mailto:moeeza.iqbal@example.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-&nbsp;
 <a href="https://github.com/moizaiqbal40-ops?tab=repositories"><img src="https://img.shields.io/badge/Projects-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/moeezaiqbal/"><img src="https://img.shields.io/badge/Connect-18181B?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"></a>
 
 </div>
