@@ -1,131 +1,125 @@
 <div align="center">
 
-# MOEEZA IQBAL
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moizaiqbal40-ops/moizaiqbal40-ops/main/profile-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moizaiqbal40-ops/moizaiqbal40-ops/main/profile-banner-light.svg">
+  <img src="https://raw.githubusercontent.com/moizaiqbal40-ops/moizaiqbal40-ops/main/profile-banner-light.svg" alt="Software Engineer + AI — Moeeza Iqbal">
+</picture>
 
-### Software Engineer · Full-Stack · AI Systems
+<br>
 
-*Building software at the intersection of engineering, intelligence & interaction.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square\&logo=vercel\&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-000?style=flat-square\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+<a href="https://www.linkedin.com/in/moeezaiqbal/">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/moizaiqbal40-ops">GitHub</a>
 
 </div>
 
 <br>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=18\&pause=1800\&color=58A6FF\&center=true\&vCenter=true\&width=650\&lines=Building+full-stack+applications;Exploring+AI-powered+software;Turning+ideas+into+working+systems)](https://git.io/typing-svg)
-
-</div>
-
-<br>
-
-```java
-SoftwareEngineer moeeza = new SoftwareEngineer();
-
-moeeza.focus(
-    "Full-Stack Development",
-    "AI & Computer Vision",
-    "Software Engineering"
-);
-
-moeeza.builds(
-    "Web Applications",
-    "Developer Tools",
-    "Intelligent Interfaces"
-);
-```
-
-<br>
-
-## ✦ Selected Work
 
 <table>
 <tr>
-<td width="50%">
+<td width="68%" valign="top">
 
-### 🧠 Ishara
+## Hello, I'm Moeeza.
 
-**Real-time PSL translation system**
+I build **full-stack applications, developer tools, and AI-powered interfaces** — turning ideas into working software.
 
-Hand-landmark recognition → gesture classification → transcript → speech.
-
-`Python` `MediaPipe` `Computer Vision`
+Currently focused on **Java, DSA, software engineering, and building production-minded applications.**
 
 </td>
+<td width="32%" align="center" valign="middle">
 
-<td width="50%">
-
-### ⚡ DSA Visualizer Pro
-
-**Interactive algorithm visualization**
-
-A visual environment for exploring data structures and algorithms.
-
-`React` `Vite` `Tailwind CSS`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎨 AI Virtual Painter
-
-**Computer-vision interaction**
-
-Real-time hand tracking transformed into an interactive drawing experience.
-
-`Python` `OpenCV` `MediaPipe`
-
-</td>
-
-<td width="50%">
-
-### 🛒 Crumb & Co.
-
-**Full-stack web application**
-
-End-to-end application demonstrating frontend, backend, database and product architecture.
-
-`React` `Node.js` `MySQL`
+```text
+┌───────────────┐
+│   SOFTWARE    │
+│       +       │
+│      AI       │
+└───────────────┘
+```
 
 </td>
 </tr>
 </table>
 
-<br>
+## ✦ Selected Work
 
-## ⚙️ Toolkit
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Languages**
-![Java](https://img.shields.io/badge/Java-18181B?style=flat-square\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-18181B?style=flat-square\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-18181B?style=flat-square\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square\&logo=javascript\&logoColor=white)
+### ⚡ DSA Visualizer Pro
 
-**Build & Ship**
-![React](https://img.shields.io/badge/React-18181B?style=flat-square\&logo=react\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-18181B?style=flat-square\&logo=vite\&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-18181B?style=flat-square\&logo=tailwindcss\&logoColor=white)
+Interactive visualization for **data structures & algorithms**.
 
-**Data & Engineering**
-![MySQL](https://img.shields.io/badge/MySQL-18181B?style=flat-square\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-18181B?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square\&logo=github\&logoColor=white)
+`React` `Vite` `Tailwind`
+
+[View repository →](https://github.com/moizaiqbal40-ops/dsa-visualizer-pro)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 AI Virtual Painter
+
+Real-time **computer-vision interaction** using hand tracking.
+
+`Python` `OpenCV` `MediaPipe`
+
+[View repository →](https://github.com/moizaiqbal40-ops/ai_virtual_painter)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Crumb & Co.
+
+Full-stack application covering **frontend, backend & database** architecture.
+
+`React` `Node.js` `MySQL`
+
+[View repository →](https://github.com/moizaiqbal40-ops/crumb-co-fullstack)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 AI Intrusion Detection
+
+Exploring **AI-assisted security and anomaly detection**.
+
+`Python` `Machine Learning`
+
+[View repository →](https://github.com/moizaiqbal40-ops/AI-Intrusion-Detection)
+
+</td>
+</tr>
+</table>
+
+## ⚙️ Engineering Toolkit
+
+<p>
+<img src="https://img.shields.io/badge/Java-18181B?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/C%2B%2B-18181B?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Vite-18181B?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+<img src="https://img.shields.io/badge/Tailwind-18181B?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/MediaPipe-18181B?style=flat-square&logo=google&logoColor=white" alt="MediaPipe">
+</p>
 
 <br>
 
 <div align="center">
 
-### Building → Learning → Shipping
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=moizaiqbal40-ops&show_icons=true&hide_border=true&hide_title=true&rank_icon=github&theme=transparent" alt="GitHub statistics">
+&nbsp;&nbsp;
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizaiqbal40-ops&layout=compact&hide_border=true&hide_title=true&theme=transparent" alt="Top programming languages">
 
-<br>
+<br><br>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=moizaiqbal40-ops&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&hide_title=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizaiqbal40-ops&layout=compact&hide_border=true&theme=transparent&hide_title=true" />
+<sub>Build deliberately. Learn continuously. Ship better.</sub>
 
 </div>
