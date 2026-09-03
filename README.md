@@ -100,84 +100,24 @@ View repository →
 
 <!-- ========================= TECH STACK ========================= -->
 
-<table align="center">
-  <tr>
-    <td width="180" align="center" valign="middle">
-      <h2><samp>TECH<br>STACK</samp></h2>
-    </td>
+<h2 align="center">TECH STACK</h2>
 
-```
-<td width="620">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,php,react,nodejs,mysql" height="50" alt="Java, Python, C++, JavaScript, PHP, React, Node.js, MySQL"/>
+</p>
 
-  <table align="center">
-    <tr>
-      <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"><br>
-        <sub>Java</sub>
-      </td>
-      <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"><br>
-        <sub>Python</sub>
-      </td>
-      <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=cpp" width="42" alt="C++"><br>
-        <sub>C++</sub>
-      </td>
-      <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=js" width="42" alt="JavaScript"><br>
-        <sub>JavaScript</sub>
-      </td>
-      <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=php" width="42" alt="PHP"><br>
-        <sub>PHP</sub>
-      </td>
-      <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=react" width="42" alt="React"><br>
-        <sub>React</sub>
-      </td>
-      <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Node.js"><br>
-        <sub>Node.js</sub>
-      </td>
-    </tr>
+<p align="center">
+  <b>Java&nbsp;&nbsp;&nbsp; Python&nbsp;&nbsp;&nbsp; C++&nbsp;&nbsp;&nbsp; JavaScript&nbsp;&nbsp;&nbsp; PHP&nbsp;&nbsp;&nbsp; React&nbsp;&nbsp;&nbsp; Node.js&nbsp;&nbsp;&nbsp; MySQL</b>
+</p>
 
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=mysql" width="42" alt="MySQL"><br>
-        <sub>MySQL</sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=vite" width="42" alt="Vite"><br>
-        <sub>Vite</sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="42" alt="Tailwind CSS"><br>
-        <sub>Tailwind</sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="42" alt="Bootstrap"><br>
-        <sub>Bootstrap</sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"><br>
-        <sub>Git</sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"><br>
-        <sub>GitHub</sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=vercel" width="42" alt="Vercel"><br>
-        <sub>Vercel</sub>
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vite,tailwind,bootstrap,git,github,vercel,androidstudio" height="50" alt="Vite, Tailwind CSS, Bootstrap, Git, GitHub, Vercel, Android Studio"/>
+</p>
 
-</td>
-```
+<p align="center">
+  <b>Vite&nbsp;&nbsp;&nbsp; Tailwind&nbsp;&nbsp;&nbsp; Bootstrap&nbsp;&nbsp;&nbsp; Git&nbsp;&nbsp;&nbsp; GitHub&nbsp;&nbsp;&nbsp; Vercel&nbsp;&nbsp;&nbsp; Android Studio</b>
+</p>
 
-  </tr>
-</table>
 
 
 <!-- ========================= CONTACT ========================= -->
