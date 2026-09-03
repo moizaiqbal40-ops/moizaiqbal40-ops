@@ -19,45 +19,6 @@
 </div>
 
 <br>
-<!-- ========================= PINNED ========================= -->
-
-<h2 align="center">
-  <samp>PINNED</samp>
-</h2>
-
-<table>
-<tr>
-
-<td width="50%" valign="top" align="center" style="border:1px solid #3A8F68; border-radius:10px;">
-
-<h3>DSA Visualizer Pro</h3>
-
-<p><sub>Explore data structures and algorithms through animated execution, synchronized pseudocode, step-by-step playback, and live complexity insights.</sub></p>
-
-<p><sub><strong>React</strong> · React Router · Tailwind CSS · Framer Motion</sub></p>
-
-<a href="https://github.com/moizaiqbal40-ops/dsa-visualizer-pro">
-  <img src="https://img.shields.io/badge/View%20Repository-0F3D2E?style=flat-square&logo=github&logoColor=8FE3B2" alt="View Repository">
-</a>
-
-</td>
-
-<td width="50%" valign="top" align="center" style="border:1px solid #3A8F68; border-radius:10px;">
-
-<h3>Crumb & Co</h3>
-
-<p><sub>A complete bakery ordering system built around real checkout flows, persistent MySQL data, API-driven operations, and an admin dashboard.</sub></p>
-
-<p><sub><strong>PHP</strong> · MySQL · JavaScript · Apache</sub></p>
-
-<a href="https://github.com/moizaiqbal40-ops/crumb-co-fullstack">
-  <img src="https://img.shields.io/badge/View%20Repository-0F3D2E?style=flat-square&logo=github&logoColor=8FE3B2" alt="View Repository">
-</a>
-
-</td>
-
-</tr>
-</table>
 
 <!-- ========================= TECH STACK ========================= -->
 
@@ -129,6 +90,78 @@
   </tr>
 </table>
 
+<br>
+
+<!-- ========================= BIO ========================= -->
+
+<table>
+<tr>
+
+<td width="72%" valign="middle">
+
+<h2> BIO</h2>
+
+I build <strong>full-stack software, developer tools, and AI-powered interfaces</strong> — turning ideas into useful, working systems.
+
+Focused on <strong>software engineering, Java & DSA, intelligent applications, and building products that people can actually use.</strong>
+
+</td>
+
+<td width="28%" align="center" valign="middle">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0F3D2E&customColorList=6&text=AI&fontSize=38&fontColor=8FE3B2&animation=fadeIn"
+  width="150"
+  alt="AI"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ========================= PINNED ========================= -->
+
+<h2 align="center">
+  <samp>PINNED</samp>
+</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top" align="center" style="border:1px solid #3A8F68; border-radius:10px;">
+
+<h3>DSA Visualizer Pro</h3>
+
+<p><sub>Explore data structures and algorithms through animated execution, synchronized pseudocode, step-by-step playback, and live complexity insights.</sub></p>
+
+<p><sub><strong>React</strong> · React Router · Tailwind CSS · Framer Motion</sub></p>
+
+<a href="https://github.com/moizaiqbal40-ops/dsa-visualizer-pro">
+  <img src="https://img.shields.io/badge/View%20Repository-0F3D2E?style=flat-square&logo=github&logoColor=8FE3B2" alt="View Repository">
+</a>
+
+</td>
+
+<td width="50%" valign="top" align="center" style="border:1px solid #3A8F68; border-radius:10px;">
+
+<h3>Crumb & Co</h3>
+
+<p><sub>A complete bakery ordering system built around real checkout flows, persistent MySQL data, API-driven operations, and an admin dashboard.</sub></p>
+
+<p><sub><strong>PHP</strong> · MySQL · JavaScript · Apache</sub></p>
+
+<a href="https://github.com/moizaiqbal40-ops/crumb-co-fullstack">
+  <img src="https://img.shields.io/badge/View%20Repository-0F3D2E?style=flat-square&logo=github&logoColor=8FE3B2" alt="View Repository">
+</a>
+
+</td>
+
+</tr>
+</table>
+
 <!-- ========================= CONTACT ========================= -->
 
 <h2 align="center">
@@ -136,7 +169,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/moeezaaiqbal/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/moeezaiqbal/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
