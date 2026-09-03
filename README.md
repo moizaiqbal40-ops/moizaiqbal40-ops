@@ -138,28 +138,20 @@ View repository →
 
 ## CONTACT ME
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/moeezaiqbal/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-&nbsp;
-
-<a href="https://github.com/moizaiqbal40-ops">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-&nbsp;
-
-<a href="https://github.com/moizaiqbal40-ops?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/moeezaiqbal/">
-<img src="https://img.shields.io/badge/Connect-18181B?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect">
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/moeezaiqbal/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/moizaiqbal40-ops">
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/moizaiqbal40-ops?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/moeezaiqbal/">
+    <img src="https://img.shields.io/badge/Connect-18181B?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect">
+  </a>
+</p>
