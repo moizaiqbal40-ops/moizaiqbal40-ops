@@ -139,19 +139,18 @@ View repository →
 ## CONTACT ME
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/moeezaiqbal/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/moeezaiqbal/" title="LinkedIn">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="42" alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/moizaiqbal40-ops">
-    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="YOUR_PORTFOLIO_LINK" title="Portfolio">
+    <img src="https://img.icons8.com/color/48/domain.png" width="42" alt="Portfolio">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/moizaiqbal40-ops?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/moeezaiqbal/">
-    <img src="https://img.shields.io/badge/Connect-18181B?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:moizaiqbal40@gmail.com" title="Email">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="42" alt="Email">
   </a>
 </p>
+
