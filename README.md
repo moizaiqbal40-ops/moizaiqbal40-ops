@@ -100,21 +100,46 @@ View repository →
 
 <!-- ========================= TECH STACK ========================= -->
 
-<h2 align="center">
-  <samp>TECH STACK</samp>
+<table align="center">
+<tr>
+<td width="180" align="center" valign="middle">
+
+<h2>
+<samp>TECH<br>STACK</samp>
 </h2>
 
+</td>
+
+<td>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,php,react,nodejs,mysql" height="48" alt="Java, Python, C++, JavaScript, PHP, React, Node.js, MySQL"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,php,react,nodejs,mysql" height="45" alt="Java, Python, C++, JavaScript, PHP, React, Node.js, MySQL"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vite,tailwind,bootstrap,git,github,vercel,androidstudio" height="48" alt="Vite, Tailwind CSS, Bootstrap, Git, GitHub, Vercel, Android Studio"/>
+<sub>Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Node.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL</sub>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td></td>
+
+<td>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vite,tailwind,bootstrap,git,github,vercel,androidstudio" height="45" alt="Vite, Tailwind CSS, Bootstrap, Git, GitHub, Vercel, Android Studio"/>
 </p>
 
 <p align="center">
-  <sub>Languages • Development • Databases • Tools</sub>
+<sub>Vite&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tailwind&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bootstrap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vercel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Android Studio</sub>
 </p>
+
+</td>
+</tr>
+</table>
+
 
 
 <!-- ========================= CONTACT ========================= -->
