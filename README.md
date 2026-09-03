@@ -139,21 +139,19 @@ View repository →
 ## CONTACT ME
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/moeezaiqbal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/moeezaiqbal/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=4285F4" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="mailto:moizaiqbal40@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
   <sub>Open to software engineering opportunities, collaborations, and interesting projects.</sub>
 </p>
-
-
