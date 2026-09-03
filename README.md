@@ -139,18 +139,21 @@ View repository →
 ## CONTACT ME
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/moeezaiqbal/" title="LinkedIn">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="42" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="YOUR_PORTFOLIO_LINK" title="Portfolio">
-    <img src="https://img.icons8.com/color/48/domain.png" width="42" alt="Portfolio">
+  <a href="https://www.linkedin.com/in/moeezaiqbal/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0B8F55?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:moizaiqbal40@gmail.com" title="Email">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="42" alt="Email">
+   
+
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-0B8F55?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
+
+   
+
+  <a href="mailto:moizaiqbal40@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0B8F55?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
 </p>
-
