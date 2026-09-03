@@ -59,27 +59,37 @@ Focused on <strong>software engineering, Java & DSA, intelligent applications, a
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border:1px solid #3A8F68; border-radius:10px;">
 
-<a href="https://github.com/moizaiqbal40-ops/dsa-visualizer-pro"><strong>⚡ DSA Visualizer Pro</strong></a>
+<strong>DSA Visualizer Pro</strong>
 
 <br>
 <sub>Interactive DSA learning tool with animated algorithms, synchronized pseudocode, step playback, and live complexity stats.</sub>
 
-<br>
+<br><br>
 <sub>React · React Router · Tailwind CSS · Framer Motion</sub>
+
+<br><br>
+<a href="https://github.com/moizaiqbal40-ops/dsa-visualizer-pro">
+  <img src="https://img.shields.io/badge/View%20Repository-0F3D2E?style=flat-square&logo=github&logoColor=8FE3B2" alt="View Repository">
+</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border:1px solid #3A8F68; border-radius:10px;">
 
-<a href="https://github.com/moizaiqbal40-ops/crumb-co-fullstack"><strong>🍰 Crumb & Co</strong></a>
+<strong>Crumb & Co</strong>
 
 <br>
 <sub>Full-stack bakery ordering system with checkout, MySQL order storage, REST-style APIs, and an admin dashboard.</sub>
 
-<br>
+<br><br>
 <sub>PHP · MySQL · JavaScript · Apache</sub>
+
+<br><br>
+<a href="https://github.com/moizaiqbal40-ops/crumb-co-fullstack">
+  <img src="https://img.shields.io/badge/View%20Repository-0F3D2E?style=flat-square&logo=github&logoColor=8FE3B2" alt="View Repository">
+</a>
 
 </td>
 
