@@ -20,49 +20,47 @@
 
 <br>
 
+<!-- ========================= TECH STACK ========================= -->
+
+<h2 align="center"><samp>TECH STACK</samp></h2>
+
 <p align="center">
-  <sub>Software engineering · Full-stack development · AI-powered products</sub>
+  <sub>Java · Python · C++ · JavaScript · PHP · React · Node.js · MySQL · Git · GitHub · Vite · Tailwind · Bootstrap · Vercel</sub>
 </p>
 
 <br>
 
-<h3 align="center"><samp>SELECTED WORK</samp></h3>
+<!-- ========================= PINNED ========================= -->
+
+<h2 align="center"><samp>PINNED</samp></h2>
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
-
-**[DSA Visualizer Pro](https://github.com/moizaiqbal40-ops/dsa-visualizer-pro)**  
-Interactive algorithm visualization with step playback, synchronized pseudocode, and complexity insights.
-
-<sub>React · Tailwind CSS · Framer Motion</sub>
-
+<td width="50%" valign="top" align="center">
+<h3>DSA Visualizer Pro</h3>
+<p><sub>Interactive DSA playground with visual execution, synchronized pseudocode, and step playback.</sub></p>
+<p><sub>React · Tailwind · Framer Motion</sub></p>
+<a href="https://github.com/moizaiqbal40-ops/dsa-visualizer-pro"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0F3D2E?style=flat-square&logo=github&logoColor=8FE3B2" alt="View Repository"></a>
 </td>
-<td width="50%" valign="top">
-
-**[Crumb & Co](https://github.com/moizaiqbal40-ops/crumb-co-fullstack)**  
-Full-stack ordering platform with checkout workflows, persistent data, APIs, and admin controls.
-
-<sub>PHP · MySQL · JavaScript · Apache</sub>
-
+<td width="50%" valign="top" align="center">
+<h3>Crumb & Co</h3>
+<p><sub>Full-stack ordering platform with MySQL persistence, checkout workflows, APIs, and admin controls.</sub></p>
+<p><sub>PHP · MySQL · JavaScript · Apache</sub></p>
+<a href="https://github.com/moizaiqbal40-ops/crumb-co-fullstack"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0F3D2E?style=flat-square&logo=github&logoColor=8FE3B2" alt="View Repository"></a>
 </td>
 </tr>
 </table>
 
 <br>
 
-<h3 align="center"><samp>TOOLS</samp></h3>
+<!-- ========================= CONTACT ========================= -->
+
+<h2 align="center"><samp>LET'S CONNECT</samp></h2>
 
 <p align="center">
-  Java · Python · C++ · JavaScript · PHP · React · Node.js · MySQL · Git · Vercel
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/moeezaiqbal/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="YOUR_PORTFOLIO_LINK">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:moizaiqbal40@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/moeezaiqbal/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=4285F4" alt="Portfolio"/></a>
+  &nbsp;
+  <a href="mailto:moizaiqbal40@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 </p>
