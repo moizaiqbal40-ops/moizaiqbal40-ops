@@ -18,18 +18,6 @@
 
 </div>
 
-<br>
-
-<!-- ========================= TECH STACK ========================= -->
-
-<h2 align="center"><samp>TECH STACK</samp></h2>
-
-<p align="center">
-  <sub>Java · Python · C++ · JavaScript · PHP · React · Node.js · MySQL · Git · GitHub · Vite · Tailwind · Bootstrap · Vercel</sub>
-</p>
-
-<br>
-
 <!-- ========================= PINNED ========================= -->
 
 <h2 align="center"><samp>PINNED</samp></h2>
