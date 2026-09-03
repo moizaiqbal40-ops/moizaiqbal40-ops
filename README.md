@@ -22,67 +22,45 @@
 
 <!-- ========================= TECH STACK ========================= -->
 
-<h2 align="center">
-  <samp>TECH STACK</samp>
-</h2>
+<h2 align="center"><samp>TECH STACK</samp></h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="36"><br><sub>Java</sub></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="36"><br><sub>Python</sub></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="36"><br><sub>C++</sub></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="36"><br><sub>JavaScript</sub></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=php" width="36"><br><sub>PHP</sub></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="36"><br><sub>React</sub></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="36"><br><sub>Node.js</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="36"><br><sub>MySQL</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vite" width="36"><br><sub>Vite</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="36"><br><sub>Tailwind</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="36"><br><sub>Bootstrap</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="36"><br><sub>Git</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="36"><br><sub>GitHub</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="36"><br><sub>Vercel</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <sub>Java · Python · C++ · JavaScript · PHP · React · Node.js · MySQL · Git · GitHub · Vite · Tailwind · Bootstrap · Vercel</sub>
+</p>
 
 <br>
 
 <!-- ========================= PINNED ========================= -->
 
-<h2 align="center">
-  <samp>PINNED</samp>
-</h2>
+<h2 align="center"><samp>PINNED</samp></h2>
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top" align="center" style="border:1px solid #3A8F68; border-radius:10px;">
+<td width="50%" valign="top" align="center">
 <h3>DSA Visualizer Pro</h3>
-<p><sub>Interactive DSA playground for visual algorithm execution, synchronized pseudocode, step playback, and complexity insights.</sub></p>
-<p><sub>React · React Router · Tailwind CSS · Framer Motion</sub></p>
-<a href="https://github.com/moizaiqbal40-ops/dsa-visualizer-pro"><img src="https://img.shields.io/badge/View%20Repository-0F3D2E?style=flat-square&logo=github&logoColor=8FE3B2" alt="View Repository"></a>
+<p><sub>Interactive DSA playground with visual execution, synchronized pseudocode, and step playback.</sub></p>
+<p><sub>React · Tailwind · Framer Motion</sub></p>
+<a href="https://github.com/moizaiqbal40-ops/dsa-visualizer-pro"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0F3D2E?style=flat-square&logo=github&logoColor=8FE3B2" alt="View Repository"></a>
 </td>
-<td width="50%" valign="top" align="center" style="border:1px solid #3A8F68; border-radius:10px;">
+<td width="50%" valign="top" align="center">
 <h3>Crumb & Co</h3>
-<p><sub>Full-stack ordering platform with checkout workflows, persistent MySQL data, API-driven operations, and admin controls.</sub></p>
+<p><sub>Full-stack ordering platform with MySQL persistence, checkout workflows, APIs, and admin controls.</sub></p>
 <p><sub>PHP · MySQL · JavaScript · Apache</sub></p>
-<a href="https://github.com/moizaiqbal40-ops/crumb-co-fullstack"><img src="https://img.shields.io/badge/View%20Repository-0F3D2E?style=flat-square&logo=github&logoColor=8FE3B2" alt="View Repository"></a>
+<a href="https://github.com/moizaiqbal40-ops/crumb-co-fullstack"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0F3D2E?style=flat-square&logo=github&logoColor=8FE3B2" alt="View Repository"></a>
 </td>
 </tr>
 </table>
 
+<br>
+
 <!-- ========================= CONTACT ========================= -->
 
-<h2 align="center">
-  <samp>LET'S CONNECT</samp>
-</h2>
+<h2 align="center"><samp>LET'S CONNECT</samp></h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/moeezaaiqbal/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/moeezaiqbal/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
   <a href="YOUR_PORTFOLIO_LINK" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=4285F4" alt="Portfolio"/></a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:moizaiqbal40@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 </p>
-<p align="center"><sub>Open to software engineering opportunities, collaborations, and interesting projects.</sub></p>
