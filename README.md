@@ -61,33 +61,25 @@ Focused on <strong>software engineering, Java & DSA, intelligent applications, a
 
 <td width="50%" valign="top">
 
-<h3>⚡ DSA Visualizer Pro</h3>
-
-Interactive visualizer for <strong>data structures & algorithms</strong>.
-
-<sub>React · Vite · Tailwind CSS</sub>
+<a href="https://github.com/moizaiqbal40-ops/dsa-visualizer-pro"><strong>⚡ DSA Visualizer Pro</strong></a>
 
 <br>
+<sub>Interactive DSA learning tool with animated algorithms, synchronized pseudocode, step playback, and live complexity stats.</sub>
 
-<a href="https://github.com/moizaiqbal40-ops/dsa-visualizer-pro">
-View repository →
-</a>
+<br>
+<sub>React · React Router · Tailwind CSS · Framer Motion</sub>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🤟 Ishara</h3>
-
-Real-time <strong>PSL sign-language translation</strong> using computer vision.
-
-<sub>Python · MediaPipe · Computer Vision</sub>
+<a href="https://github.com/moizaiqbal40-ops/crumb-co-fullstack"><strong>🍰 Crumb & Co</strong></a>
 
 <br>
+<sub>Full-stack bakery ordering system with checkout, MySQL order storage, REST-style APIs, and an admin dashboard.</sub>
 
-<a href="https://github.com/moizaiqbal40-ops/ishara">
-View repository →
-</a>
+<br>
+<sub>PHP · MySQL · JavaScript · Apache</sub>
 
 </td>
 
