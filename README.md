@@ -52,7 +52,9 @@ Focused on <strong>software engineering, Java & DSA, intelligent applications, a
 
 <!-- ========================= PINNED ========================= -->
 
-## PINNED
+<h2 align="center">
+  <samp>PINNED</samp>
+</h2>
 
 <table>
 <tr>
@@ -61,13 +63,11 @@ Focused on <strong>software engineering, Java & DSA, intelligent applications, a
 
 <h3>⚡ DSA Visualizer Pro</h3>
 
-Interactive visualization for <strong>data structures & algorithms</strong>.
-
-<br>
+Interactive visualizer for <strong>data structures & algorithms</strong>.
 
 <sub>React · Vite · Tailwind CSS</sub>
 
-<br><br>
+<br>
 
 <a href="https://github.com/moizaiqbal40-ops/dsa-visualizer-pro">
 View repository →
@@ -77,17 +77,15 @@ View repository →
 
 <td width="50%" valign="top">
 
-<h3>🎨 AI Virtual Painter</h3>
+<h3>🤟 Ishara</h3>
 
-Real-time <strong>computer-vision interaction</strong> through hand tracking.
+Real-time <strong>PSL sign-language translation</strong> using computer vision.
+
+<sub>Python · MediaPipe · Computer Vision</sub>
 
 <br>
 
-<sub>Python · OpenCV · MediaPipe</sub>
-
-<br><br>
-
-<a href="https://github.com/moizaiqbal40-ops/ai_virtual_painter">
+<a href="https://github.com/moizaiqbal40-ops/ishara">
 View repository →
 </a>
 
@@ -96,7 +94,6 @@ View repository →
 </tr>
 </table>
 
-<br>
 <!-- ========================= TECH STACK ========================= -->
 
 <h2 align="center">
