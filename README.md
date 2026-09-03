@@ -133,21 +133,30 @@ View repository →
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio">
 
 <br><br>
-
 <!-- ========================= CONTACT ========================= -->
 
-## CONTACT ME
+<h2 align="center">
+  <samp>LET'S CONNECT</samp>
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moeezaiqbal/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="YOUR_PORTFOLIO_LINK" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=4285F4" alt="Portfolio"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:moizaiqbal40@gmail.com">
     <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
+</p>
+
+<p align="center">
+  <sub>Building • Learning • Creating</sub>
+</p>
+
+<p align="center">
+  <samp>Thanks for visiting ✦</samp>
 </p>
