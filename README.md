@@ -140,7 +140,7 @@ View repository →
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moeezaiqbal/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="YOUR_PORTFOLIO_LINK" target="_blank" rel="noopener noreferrer">
@@ -150,8 +150,4 @@ View repository →
   <a href="mailto:moizaiqbal40@gmail.com">
     <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
-</p>
-
-<p align="center">
-  <sub>Open to software engineering opportunities, collaborations, and interesting projects.</sub>
 </p>
